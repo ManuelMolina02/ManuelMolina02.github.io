@@ -1,0 +1,197 @@
+{
+  "id": "001",
+  "search": "Basics Information Countries",
+  "reference_data": "The World Bank",
+  "analyzed_countries": [
+    {
+      "id": "025594",
+      "initials": "BR",
+      "name": "Brasil",
+      "capital": "Brasília",
+      "continent": "América do Sul",
+      "url_flag": "https://www.significados.com.br/foto/bandeira-do-brasil.png",
+      "searches": {
+        "population": [
+          {
+            "gender": "Masculino",
+            "amount": "104,435,783"
+          },
+          {
+            "gender": "Feminino",
+            "amount": "108,123,626"
+          }
+        ],
+        "economy": [
+          {
+            "id_activity": "011",
+            "name_activity": "Produtos de Importação",
+            "details": [
+              {
+                "id": "49891",
+                "name": "Petróleo Refinado",
+                "value": "US$ 12,4 Bilhões",
+                "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/bra"
+              },
+              {
+                "id": "49892",
+                "name": "Peças de Veículos",
+                "value": "US$ 6,19 Bilhões",
+                "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/bra"
+              },
+              {
+                "id": "49893",
+                "name": "Petróleo Bruto",
+                "value": "US$ 4,35 Bilhões",
+                "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
+              },
+              {
+                "id": "49894",
+                "name": "Circuitos Integrados",
+                "value": "US$ 3,83 Bilhões",
+                "reference": "https://oec.world/en/profile/bilateral-product/integrated-circuits/reporter/bra"
+              },
+              {
+                "id": "49895",
+                "name": "Pesticidas",
+                "value": "US$ 3,75 Bilhões",
+                "reference": "https://oec.world/en/profile/bilateral-product/pesticides/reporter/bra"
+              }
+            ]
+          },
+          {
+            "id_activity": "012",
+            "name_activity": "Produtos de Exportação",
+            "details": [
+              {
+                "id": "49896",
+                "name": "Soja",
+                "value": "US$ 26,1 Bilhões",
+                "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/bra"
+              },
+              {
+                "id": "49897",
+                "name": "Petróleo Bruto",
+                "value": "US$ 24,3 Bilhões",
+                "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
+              },
+              {
+                "id": "49898",
+                "name": "Minério de Ferro",
+                "value": "US$ 23 Bilhões",
+                "reference": "https://oec.world/en/profile/bilateral-product/iron-ore/reporter/bra"
+              },
+              {
+                "id": "49899",
+                "name": "Milho",
+                "value": "US$ 7,39 Bilhões",
+                "reference": "https://oec.world/en/profile/bilateral-product/corn/reporter/bra"
+              },
+              {
+                "id": "49900",
+                "name": "Celulose Química de Sulfato",
+                "value": "US$ 7,35 Bilhões",
+                "reference": "https://oec.world/en/profile/bilateral-product/sulfate-chemical-woodpulp/reporter/bra"
+              }
+            ]
+          }
+        ]
+      },
+      "references": [
+        {
+          "id": "0121",
+          "name": "The Observatory of Economic Complexity | OEC",
+          "url_search": "https://oec.world/en/profile/country/bra#historical-data"
+        },
+        {
+          "id": "0122",
+          "name": "The World Bank",
+          "url_search": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BR"
+        }
+      ]
+    },
+    {
+      "id": "025595",
+      "initials": "AR",
+      "name": "Argentina",
+      "capital": "Buenos Aires",
+      "continent": "América do Sul",
+      "url_flag": "https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/bandeira-da-argentina-oficial.jpg",
+      "searches": {
+        "population": [
+          {
+            "gender": "Masculino",
+            "amount": "22,137,442"
+          },
+          {
+            "gender": "Feminino",
+            "amount": "23,239,321"
+          }
+        ],
+        "economy": []
+      }
+    },
+    {
+      "id": "025596",
+      "initials": "CL",
+      "name": "Chile",
+      "capital": "Santiago",
+      "continent": "América do Sul",
+      "url_flag": "https://a-static.mlcdn.com.br/1500x1500/bandeira-do-chile-bordada-90x128cm-banderminas/wgilbandeiras/301/d04de2b851145cedd59b857b96d46bbc.jpg",
+      "searches": {
+        "population": [
+          {
+            "gender": "Masculino",
+            "amount": "9,425,669"
+          },
+          {
+            "gender": "Feminino",
+            "amount": "9,690,540"
+          }
+        ],
+        "economy": []
+      }
+    },
+    {
+      "id": "025597",
+      "initials": "ES",
+      "name": "Espanha",
+      "capital": "Madri",
+      "continent": "Europa",
+      "url_flag": "https://a-static.mlcdn.com.br/1500x1500/bandeira-do-espanha-90x128cm-banderminas/wgilbandeiras/305/7f51be7ff61730bc26e74be9100bb824.jpg",
+      "searches": {
+        "population": [
+          {
+            "gender": "Masculino",
+            "amount": "23,271,636"
+          },
+          {
+            "gender": "Feminino",
+            "amount": "24,079,931"
+          }
+        ],
+        "economy": []
+      }
+    },
+    {
+      "id": "025598",
+      "initials": "PT",
+      "name": "Portugual",
+      "capital": "Lisboa",
+      "continent": "Europa",
+      "url_flag": "https://www.estudopratico.com.br/wp-content/uploads/2016/04/bandeira-portugal.jpg",
+      "searches": {
+        "population": [
+          {
+            "gender": "Masculino",
+            "amount": "4,875,534"
+          },
+          {
+            "gender": "Feminino",
+            "amount": "5,430,030"
+          }
+        ],
+        "economy": []
+      }
+    }
+  ]
+}
