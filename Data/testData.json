@@ -13,10 +13,12 @@
       "searches": {
         "population": [
           {
+            "color": "#36a2ebcc",
             "gender": "Masculino",
             "amount": "104,435,783"
           },
           {
+            "color": "#ff6384cc",
             "gender": "Feminino",
             "amount": "108,123,626"
           }
@@ -119,10 +121,12 @@
       "searches": {
         "population": [
           {
+            "color": "#36a2ebcc",            
             "gender": "Masculino",
             "amount": "22,137,442"
           },
           {
+            "color": "#ff6384cc",            
             "gender": "Feminino",
             "amount": "23,239,321"
           }
@@ -140,10 +144,12 @@
       "searches": {
         "population": [
           {
+            "color": "#36a2ebcc",            
             "gender": "Masculino",
             "amount": "9,425,669"
           },
           {
+            "color": "#ff6384cc",            
             "gender": "Feminino",
             "amount": "9,690,540"
           }
@@ -161,10 +167,12 @@
       "searches": {
         "population": [
           {
+            "color": "#36a2ebcc",            
             "gender": "Masculino",
             "amount": "23,271,636"
           },
           {
+            "color": "#ff6384cc",            
             "gender": "Feminino",
             "amount": "24,079,931"
           }
@@ -182,10 +190,12 @@
       "searches": {
         "population": [
           {
+            "color": "#36a2ebcc",            
             "gender": "Masculino",
             "amount": "4,875,534"
           },
           {
+            "color": "#ff6384cc",            
             "gender": "Feminino",
             "amount": "5,430,030"
           }
