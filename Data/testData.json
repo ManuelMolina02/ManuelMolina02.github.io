@@ -7,8 +7,14 @@
     "continent": "América do Sul",
     "url_flag": "https://www.significados.com.br/foto/bandeira-do-brasil.png",
     "map_coordinate": {
-      "latitude": -14.6612563,
-      "longitude": -52.666212
+      "latitude": -16.2612563,
+      "longitude": -51.466212,
+      "zoom": 3,
+      "marker_position": {
+        "setTop": -140,
+        "setLeft": -60,
+         
+      }        
     },
     "searches": {
       "population": [
@@ -119,8 +125,14 @@
     "continent": "América do Sul",
     "url_flag": "https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/bandeira-da-argentina-oficial.jpg",
     "map_coordinate": {
-      "latitude": -40.0239751,
-      "longitude": -65.0116104
+      "latitude": -41.6239751,
+      "longitude": -63.9116104,
+      "zoom": 3,
+      "marker_position": {
+        "setTop": -140,
+        "setLeft": -60,
+         
+      }      
     },
     "searches": {
       "population": [
@@ -146,8 +158,9 @@
     "continent": "América do Sul",
     "url_flag": "https://a-static.mlcdn.com.br/1500x1500/bandeira-do-chile-bordada-90x128cm-banderminas/wgilbandeiras/301/d04de2b851145cedd59b857b96d46bbc.jpg",
     "map_coordinate": {
-      "latitude": -31.2239751,
-      "longitude": -70.8110104
+      "latitude": -34.4239751,
+      "longitude":  -69.8110104,
+      "zoom": 2.6
     },
     "searches": {
       "population": [
@@ -173,8 +186,14 @@
     "continent": "Europa",
     "url_flag": "https://a-static.mlcdn.com.br/1500x1500/bandeira-do-espanha-90x128cm-banderminas/wgilbandeiras/305/7f51be7ff61730bc26e74be9100bb824.jpg",
     "map_coordinate": {
-      "latitude": 36.8239751,
-      "longitude": -5.0110104
+      "latitude": 41.3239751,
+      "longitude": -4.016104,
+      "zoom": 4.4,
+      "marker_position": {
+        "setTop": -80,
+        "setLeft": -60,
+         
+      }
     },
     "searches": {
       "population": [
@@ -200,8 +219,14 @@
     "continent": "Europa",
     "url_flag": "https://www.estudopratico.com.br/wp-content/uploads/2016/04/bandeira-portugal.jpg",
     "map_coordinate": {
-      "latitude": 34.8239751,
-      "longitude": -9.8110104
+    "latitude": 39.3039751,
+    "longitude": -8.51101044,
+    "zoom": 5,
+      "marker_position": {
+        "setTop": -80,
+        "setLeft": -60,
+         
+      }        
     },
     "searches": {
       "population": [
