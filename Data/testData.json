@@ -12,7 +12,7 @@
       "zoom": 3,
       "marker_position": {
         "setTop": -140,
-        "setLeft": -60,
+        "setLeft": -60
          
       }        
     },
@@ -130,7 +130,7 @@
       "zoom": 3,
       "marker_position": {
         "setTop": -140,
-        "setLeft": -60,
+        "setLeft": -60
          
       }      
     },
@@ -160,7 +160,12 @@
     "map_coordinate": {
       "latitude": -34.4239751,
       "longitude":  -69.8110104,
-      "zoom": 2.6
+      "zoom": 2.6,
+      "marker_position": {
+        "setTop": -140,
+        "setLeft": -60
+         
+      }          
     },
     "searches": {
       "population": [
@@ -191,8 +196,7 @@
       "zoom": 4.4,
       "marker_position": {
         "setTop": -80,
-        "setLeft": -60,
-         
+        "setLeft": -60
       }
     },
     "searches": {
@@ -224,8 +228,7 @@
     "zoom": 5,
       "marker_position": {
         "setTop": -80,
-        "setLeft": -60,
-         
+        "setLeft": -60         
       }        
     },
     "searches": {
