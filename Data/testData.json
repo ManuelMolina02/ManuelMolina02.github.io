@@ -1,14 +1,19 @@
 [
   {
-    "id": "025594",
+    "id": 25594,
     "initials": "BR",
     "name": "Brasil",
     "capital": "Brasília",
     "continent": "América do Sul",
     "url_flag": "https://www.significados.com.br/foto/bandeira-do-brasil.png",
     "map_coordinate": {
-      "latitude": -14.6612563,
-      "longitude": -52.666212
+      "latitude": -16.2612563,
+      "longitude": -51.466212,
+      "zoom": 3,
+      "marker_position": {
+        "setTop": -140,
+        "setLeft": -60
+      }
     },
     "searches": {
       "population": [
@@ -25,35 +30,35 @@
       ],
       "economy": [
         {
-          "id_activity": "011",
+          "id_activity": 11,
           "name_activity": "Produtos de Importação",
           "details": [
             {
-              "id": "49891",
+              "id": 49891,
               "name": "Petróleo Refinado",
               "value": "US$ 12,4 Bilhões",
               "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/bra"
             },
             {
-              "id": "49892",
+              "id": 49892,
               "name": "Peças de Veículos",
               "value": "US$ 6,19 Bilhões",
               "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/bra"
             },
             {
-              "id": "49893",
+              "id": 49893,
               "name": "Petróleo Bruto",
               "value": "US$ 4,35 Bilhões",
               "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
             },
             {
-              "id": "49894",
+              "id": 49894,
               "name": "Circuitos Integrados",
               "value": "US$ 3,83 Bilhões",
               "reference": "https://oec.world/en/profile/bilateral-product/integrated-circuits/reporter/bra"
             },
             {
-              "id": "49895",
+              "id": 49895,
               "name": "Pesticidas",
               "value": "US$ 3,75 Bilhões",
               "reference": "https://oec.world/en/profile/bilateral-product/pesticides/reporter/bra"
@@ -61,35 +66,35 @@
           ]
         },
         {
-          "id_activity": "012",
+          "id_activity": 12,
           "name_activity": "Produtos de Exportação",
           "details": [
             {
-              "id": "49896",
+              "id": 49896,
               "name": "Soja",
               "value": "US$ 26,1 Bilhões",
               "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/bra"
             },
             {
-              "id": "49897",
+              "id": 49897,
               "name": "Petróleo Bruto",
               "value": "US$ 24,3 Bilhões",
               "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
             },
             {
-              "id": "49898",
+              "id": 49898,
               "name": "Minério de Ferro",
               "value": "US$ 23 Bilhões",
               "reference": "https://oec.world/en/profile/bilateral-product/iron-ore/reporter/bra"
             },
             {
-              "id": "49899",
+              "id": 49899,
               "name": "Milho",
               "value": "US$ 7,39 Bilhões",
               "reference": "https://oec.world/en/profile/bilateral-product/corn/reporter/bra"
             },
             {
-              "id": "49900",
+              "id": 49900,
               "name": "Celulose Química de Sulfato",
               "value": "US$ 7,35 Bilhões",
               "reference": "https://oec.world/en/profile/bilateral-product/sulfate-chemical-woodpulp/reporter/bra"
@@ -100,27 +105,32 @@
     },
     "references": [
       {
-        "id": "0121",
+        "id": 121,
         "name": "The Observatory of Economic Complexity | OEC",
         "url_search": "https://oec.world/en/profile/country/bra#historical-data"
       },
       {
-        "id": "0122",
+        "id": 122,
         "name": "The World Bank",
         "url_search": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BR"
       }
     ]
   },
   {
-    "id": "025595",
+    "id": 25595,
     "initials": "AR",
     "name": "Argentina",
     "capital": "Buenos Aires",
     "continent": "América do Sul",
     "url_flag": "https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/bandeira-da-argentina-oficial.jpg",
     "map_coordinate": {
-      "latitude": -40.0239751,
-      "longitude": -65.0116104
+      "latitude": -41.6239751,
+      "longitude": -63.9116104,
+      "zoom": 3,
+      "marker_position": {
+        "setTop": -140,
+        "setLeft": -60
+      }
     },
     "searches": {
       "population": [
@@ -139,15 +149,20 @@
     }
   },
   {
-    "id": "025596",
+    "id": 25596,
     "initials": "CL",
     "name": "Chile",
     "capital": "Santiago",
     "continent": "América do Sul",
     "url_flag": "https://a-static.mlcdn.com.br/1500x1500/bandeira-do-chile-bordada-90x128cm-banderminas/wgilbandeiras/301/d04de2b851145cedd59b857b96d46bbc.jpg",
     "map_coordinate": {
-      "latitude": -31.2239751,
-      "longitude": -70.8110104
+      "latitude": -34.4239751,
+      "longitude": -69.8110104,
+      "zoom": 2.6,
+      "marker_position": {
+        "setTop": -140,
+        "setLeft": -60
+      }
     },
     "searches": {
       "population": [
@@ -166,15 +181,20 @@
     }
   },
   {
-    "id": "025597",
+    "id": 25597,
     "initials": "ES",
     "name": "Espanha",
     "capital": "Madri",
     "continent": "Europa",
     "url_flag": "https://a-static.mlcdn.com.br/1500x1500/bandeira-do-espanha-90x128cm-banderminas/wgilbandeiras/305/7f51be7ff61730bc26e74be9100bb824.jpg",
     "map_coordinate": {
-      "latitude": 36.8239751,
-      "longitude": -5.0110104
+      "latitude": 41.3239751,
+      "longitude": -4.016104,
+      "zoom": 4.4,
+      "marker_position": {
+        "setTop": -80,
+        "setLeft": -60
+      }
     },
     "searches": {
       "population": [
@@ -193,15 +213,20 @@
     }
   },
   {
-    "id": "025598",
+    "id": 25598,
     "initials": "PT",
     "name": "Portugual",
     "capital": "Lisboa",
     "continent": "Europa",
     "url_flag": "https://www.estudopratico.com.br/wp-content/uploads/2016/04/bandeira-portugal.jpg",
     "map_coordinate": {
-      "latitude": 34.8239751,
-      "longitude": -9.8110104
+      "latitude": 39.3039751,
+      "longitude": -8.51101044,
+      "zoom": 5,
+      "marker_position": {
+        "setTop": -80,
+        "setLeft": -60
+      }
     },
     "searches": {
       "population": [
