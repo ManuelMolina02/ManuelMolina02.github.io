@@ -18,24 +18,54 @@
         {
           "color": "#36a2ebcc",
           "gender": "Masculino",
-          "age_group": {
-            "0-14": 22364725,
-            "15-29": 25286267,
-            "30-49": 31887206,
-            "50-69": 19914932,
-            "+70": 5648386
-          }
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 22364725
+            },
+            {
+              "age_range": "15-29",
+              "amount": 25286267
+            },
+            {
+              "age_range": "30-49",
+              "amount": 31887206
+            },
+            {
+              "age_range": "50-69",
+              "amount": 19914932
+            },
+            {
+              "age_range": "+70",
+              "amount": 5648386
+            }
+          ]
         },
         {
           "color": "#ff6384cc",
           "gender": "Feminino",
-          "age_group": {
-            "0-14": 21398200,
-            "15-29": 24660906,
-            "30-49": 32614600,
-            "50-69": 22289495,
-            "+70": 7928724
-          }
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 21398200
+            },
+            {
+              "age_range": "15-29",
+              "amount": 24660906
+            },
+            {
+              "age_range": "30-49",
+              "amount": 32614600
+            },
+            {
+              "age_range": "50-69",
+              "amount": 22289495
+            },
+            {
+              "age_range": "+70",
+              "amount": 7928724
+            }
+          ]
         }
       ],
       "economy": [
@@ -152,24 +182,54 @@
         {
           "color": "#36a2ebcc",
           "gender": "Masculino",
-          "age_group": {
-            "0-14": 5637039,
-            "15-29": 5347661,
-            "30-49": 6101657,
-            "50-69": 3774768,
-            "+70": 1393461
-          }
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 5637039
+            },
+            {
+              "age_range": "15-29",
+              "amount": 5347661
+            },
+            {
+              "age_range": "30-49",
+              "amount": 6101657
+            },
+            {
+              "age_range": "50-69",
+              "amount": 3774768
+            },
+            {
+              "age_range": "+70",
+              "amount": 1393461
+            }
+          ]
         },
         {
           "color": "#ff6384cc",
           "gender": "Feminino",
-          "age_group": {
-            "0-14": 5432743,
-            "15-29": 5205606,
-            "30-49": 6245194,
-            "50-69": 4278088,
-            "+70": 2189606
-          }
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 5432743
+            },
+            {
+              "age_range": "15-29",
+              "amount": 5205606
+            },
+            {
+              "age_range": "30-49",
+              "amount": 6245194
+            },
+            {
+              "age_range": "50-69",
+              "amount": 4278088
+            },
+            {
+              "age_range": "+70",
+              "amount": 2189606
+            }
+          ]
         }
       ],
       "economy": [
@@ -274,24 +334,54 @@
         {
           "color": "#36a2ebcc",
           "gender": "Masculino",
-          "age_group": {
-            "0-14": 1859464,
-            "15-29": 2109991,
-            "30-49": 2805932,
-            "50-69": 2032060,
-            "+70": 667893
-          }
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 1859464
+            },
+            {
+              "age_range": "15-29",
+              "amount": 2109991
+            },
+            {
+              "age_range": "30-49",
+              "amount": 2805932
+            },
+            {
+              "age_range": "50-69",
+              "amount": 2032060
+            },
+            {
+              "age_range": "+70",
+              "amount": 667893
+            }
+          ]
         },
         {
           "color": "#ff6384cc",
           "gender": "Feminino",
-          "age_group": {
-            "0-14": 1793569,
-            "15-29": 2045020,
-            "30-49": 2772468,
-            "50-69": 2193196,
-            "+70": 932769
-          }
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 1793569
+            },
+            {
+              "age_range": "15-29",
+              "amount": 2045020
+            },
+            {
+              "age_range": "30-49",
+              "amount": 2772468
+            },
+            {
+              "age_range": "50-69",
+              "amount": 2193196
+            },
+            {
+              "age_range": "+70",
+              "amount": 932769
+            }
+          ]
         }
       ],
       "economy": [
@@ -399,24 +489,54 @@
         {
           "color": "#36a2ebcc",
           "gender": "Masculino",
-          "age_group": {
-            "0-14": 3428381,
-            "15-29": 3524062,
-            "30-49": 6844697,
-            "50-69": 6212835,
-            "+70": 2969126
-          }
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 3428381
+            },
+            {
+              "age_range": "15-29",
+              "amount": 3524062
+            },
+            {
+              "age_range": "30-49",
+              "amount": 6844697
+            },
+            {
+              "age_range": "50-69",
+              "amount": 6212835
+            },
+            {
+              "age_range": "+70",
+              "amount": 2969126
+            }
+          ]
         },
         {
           "color": "#ff6384cc",
           "gender": "Feminino",
-          "age_group": {
-            "0-14": 3217198,
-            "15-29": 3352127,
-            "30-49": 6714013,
-            "50-69": 6413501,
-            "+70": 4069271
-          }
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 3217198
+            },
+            {
+              "age_range": "15-29",
+              "amount": 3352127
+            },
+            {
+              "age_range": "30-49",
+              "amount": 6714013
+            },
+            {
+              "age_range": "50-69",
+              "amount": 6413501
+            },
+            {
+              "age_range": "+70",
+              "amount": 4069271
+            }
+          ]
         }
       ],
       "economy": [
@@ -524,24 +644,54 @@
         {
           "color": "#36a2ebcc",
           "gender": "Masculino",
-          "age_group": {
-            "0-14": 671717,
-            "15-29": 802612,
-            "30-49": 1326081,
-            "50-69": 1306989,
-            "+70": 704537
-          }
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 671717
+            },
+            {
+              "age_range": "15-29",
+              "amount": 802612
+            },
+            {
+              "age_range": "30-49",
+              "amount": 1326081
+            },
+            {
+              "age_range": "50-69",
+              "amount": 1306989
+            },
+            {
+              "age_range": "+70",
+              "amount": 704537
+            }
+          ]
         },
         {
           "color": "#ff6384cc",
           "gender": "Feminino",
-          "age_group": {
-            "0-14": 636806,
-            "15-29": 794010,
-            "30-49": 1412314,
-            "50-69": 1487663,
-            "+70": 1025194
-          }
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 636806
+            },
+            {
+              "age_range": "15-29",
+              "amount": 794010
+            },
+            {
+              "age_range": "30-49",
+              "amount": 1412314
+            },
+            {
+              "age_range": "50-69",
+              "amount": 1487663
+            },
+            {
+              "age_range": "+70",
+              "amount": 1025194
+            }
+          ]
         }
       ],
       "economy": [
