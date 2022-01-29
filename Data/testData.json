@@ -5,15 +5,13 @@
     "name": "Brasil",
     "capital": "Brasília",
     "continent": "América do Sul",
+    "ice_position": "49º",
+    "life_expectancy": 74.6,
+    "health_expenditure_percap": 1318.17,
     "url_flag": "https://www.significados.com.br/foto/bandeira-do-brasil.png",
     "map_coordinate": {
       "latitude": -16.2612563,
-      "longitude": -51.466212,
-      "zoom": 3,
-      "marker_position": {
-        "setTop": -140,
-        "setLeft": -60
-      }
+      "longitude": -51.466212
     },
     "searches": {
       "population": [
@@ -129,15 +127,13 @@
     "name": "Argentina",
     "capital": "Buenos Aires",
     "continent": "América do Sul",
+    "ice_position": "59ª",
+    "life_expectancy": 76.3,
+    "health_expenditure_percap": 1137.24,
     "url_flag": "https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/bandeira-da-argentina-oficial.jpg",
     "map_coordinate": {
       "latitude": -41.6239751,
-      "longitude": -63.9116104,
-      "zoom": 3,
-      "marker_position": {
-        "setTop": -140,
-        "setLeft": -60
-      }
+      "longitude": -63.9116104
     },
     "searches": {
       "population": [
@@ -158,37 +154,37 @@
           "name_activity": "Produtos de Importação",
           "details": [
             {
-              "id": 49891,
+              "id": 49901,
+              "name": "Carros",
+              "value": 2.33,
+              "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/arg"
+            },
+            {
+              "id": 49902,
               "name": "Petróleo Refinado",
-              "value": 12.4,
+              "value": 2.25,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/arg"
             },
             {
-              "id": 49892,
-              "name": "Peças de Veículos",
-              "value": 6.19,
-              "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/bra"
+              "id": 49903,
+              "name": "Peças de Veículo",
+              "value": 2.07,
+              "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/arg"
             },
             {
-              "id": 49893,
-              "name": "Petróleo Bruto",
-              "value": 4.35,
+              "id": 49904,
+              "name": "Gás de Petróleo",
+              "value": 1.54,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/petroleum-gas/reporter/arg"
             },
             {
-              "id": 49894,
-              "name": "Circuitos Integrados",
-              "value": 3.83,
-              "reference": "https://oec.world/en/profile/bilateral-product/integrated-circuits/reporter/bra"
-            },
-            {
-              "id": 49895,
-              "name": "Pesticidas",
-              "value": 3.75,
+              "id": 49905,
+              "name": "Soja",
+              "value": 1.38,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/pesticides/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/arg"
             }
           ]
         },
@@ -197,38 +193,38 @@
           "name_activity": "Produtos de Exportação",
           "details": [
             {
-              "id": 49896,
-              "name": "Soja",
-              "value": 26.1,
+              "id": 49906,
+              "name": "Farelo de Soja",
+              "value": 8.81,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/soybean-meal/reporter/arg"
             },
             {
-              "id": 49897,
-              "name": "Petróleo Bruto",
-              "value": 24.3,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
-            },
-            {
-              "id": 49898,
-              "name": "Minério de Ferro",
-              "value": 23.0,
-              "reference": "https://oec.world/en/profile/bilateral-product/iron-ore/reporter/bra"
-            },
-            {
-              "id": 49899,
+              "id": 49907,
               "name": "Milho",
-              "value": 7.39,
+              "value": 6.19,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/corn/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/corn/reporter/arg"
             },
             {
-              "id": 49900,
-              "name": "Celulose Química de Sulfato",
-              "value": 7.35,
+              "id": 49908,
+              "name": "Caminhões de Entrega",
+              "value": 3.83,
+              "reference": "https://oec.world/en/profile/bilateral-product/delivery-trucks/reporter/arg"
+            },
+            {
+              "id": 49909,
+              "name": "Soja",
+              "value": 3.47,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/sulfate-chemical-woodpulp/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/arg"
+            },
+            {
+              "id": 49910,
+              "name": "Óleo de Soja",
+              "value": 3.38,
+              "unit": "Bilhões",
+              "reference": "https://oec.world/en/profile/bilateral-product/soybean-oil/reporter/arg"
             }
           ]
         }
@@ -241,15 +237,13 @@
     "name": "Chile",
     "capital": "Santiago",
     "continent": "América do Sul",
+    "ice_position": "77ª",
+    "life_expectancy": 81.7,
+    "health_expenditure_percap": 1749.36,
     "url_flag": "https://a-static.mlcdn.com.br/1500x1500/bandeira-do-chile-bordada-90x128cm-banderminas/wgilbandeiras/301/d04de2b851145cedd59b857b96d46bbc.jpg",
     "map_coordinate": {
       "latitude": -34.4239751,
-      "longitude": -69.8110104,
-      "zoom": 2.6,
-      "marker_position": {
-        "setTop": -140,
-        "setLeft": -60
-      }
+      "longitude": -69.8110104
     },
     "searches": {
       "population": [
@@ -270,37 +264,39 @@
           "name_activity": "Produtos de Importação",
           "details": [
             {
-              "id": 49891,
+              "id": 49911,
               "name": "Petróleo Refinado",
-              "value": 12.4,
+              "value": 4.22,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/chl"
             },
             {
-              "id": 49892,
-              "name": "Peças de Veículos",
-              "value": 6.19,
-              "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/bra"
-            },
-            {
-              "id": 49893,
+              "id": 49912,
               "name": "Petróleo Bruto",
-              "value": 4.35,
+              "value": 3.59,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/chl"
             },
             {
-              "id": 49894,
-              "name": "Circuitos Integrados",
-              "value": 3.83,
-              "reference": "https://oec.world/en/profile/bilateral-product/integrated-circuits/reporter/bra"
+              "id": 49913,
+              "name": "Carros",
+              "value": 3.46,
+              "unit": "Bilhões",
+              "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/chl"
             },
             {
-              "id": 49895,
-              "name": "Pesticidas",
-              "value": 3.75,
+              "id": 49914,
+              "name": "Equipamentos de Transmissão",
+              "value": 2.11,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/pesticides/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/broadcasting-equipment/reporter/chl"
+            },
+            {
+              "id": 49915,
+              "name": "Caminhões de Entrega",
+              "value": 2.01,
+              "unit": "Bilhões",
+              "reference": "https://oec.world/en/profile/bilateral-product/delivery-trucks/reporter/chl"
             }
           ]
         },
@@ -309,38 +305,39 @@
           "name_activity": "Produtos de Exportação",
           "details": [
             {
-              "id": 49896,
-              "name": "Soja",
-              "value": 26.1,
+              "id": 49916,
+              "name": "Minério de Cobre",
+              "value": 18.4,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/copper-ore/reporter/chl"
             },
             {
-              "id": 49897,
-              "name": "Petróleo Bruto",
-              "value": 24.3,
+              "id": 49917,
+              "name": "Cobre Refinado",
+              "value": 13.4,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/refined-copper/reporter/chl"
             },
             {
-              "id": 49898,
-              "name": "Minério de Ferro",
-              "value": 23.0,
-              "reference": "https://oec.world/en/profile/bilateral-product/iron-ore/reporter/bra"
-            },
-            {
-              "id": 49899,
-              "name": "Milho",
-              "value": 7.39,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/corn/reporter/bra"
-            },
-            {
-              "id": 49900,
+              "id": 49918,
               "name": "Celulose Química de Sulfato",
-              "value": 7.35,
+              "value": 2.82,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/sulfate-chemical-woodpulp/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/sulfate-chemical-woodpulp/reporter/chl"
+            },
+            {
+              "id": 49919,
+              "name": "Filetes de Peixe",
+              "value": 2.79,
+              "unit": "Bilhões",
+              "reference": "https://oec.world/en/profile/bilateral-product/fish-fillets/reporter/chl"
+            },
+            {
+              "id": 49920,
+              "name": "Frutas",
+              "value": 1.96,
+              "unit": "Bilhões",
+              "reference": "https://oec.world/en/profile/bilateral-product/pitted-fruits/reporter/chl"
             }
           ]
         }
@@ -353,15 +350,13 @@
     "name": "Espanha",
     "capital": "Madri",
     "continent": "Europa",
+    "ice_position": "36ª",
+    "life_expectancy": 83.3,
+    "health_expenditure_percap": 2965.82,
     "url_flag": "https://a-static.mlcdn.com.br/1500x1500/bandeira-do-espanha-90x128cm-banderminas/wgilbandeiras/305/7f51be7ff61730bc26e74be9100bb824.jpg",
     "map_coordinate": {
       "latitude": 41.3239751,
-      "longitude": -4.016104,
-      "zoom": 4.4,
-      "marker_position": {
-        "setTop": -80,
-        "setLeft": -60
-      }
+      "longitude": -4.016104
     },
     "searches": {
       "population": [
@@ -382,37 +377,39 @@
           "name_activity": "Produtos de Importação",
           "details": [
             {
-              "id": 49891,
-              "name": "Petróleo Refinado",
-              "value": 12.4,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/bra"
-            },
-            {
-              "id": 49892,
-              "name": "Peças de Veículos",
-              "value": 6.19,
-              "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/bra"
-            },
-            {
-              "id": 49893,
+              "id": 49921,
               "name": "Petróleo Bruto",
-              "value": 4.35,
+              "value": 27.8,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/esp"
             },
             {
-              "id": 49894,
-              "name": "Circuitos Integrados",
-              "value": 3.83,
-              "reference": "https://oec.world/en/profile/bilateral-product/integrated-circuits/reporter/bra"
+              "id": 49922,
+              "name": "Carros",
+              "value": 21.6,
+              "unit": "Bilhões",
+              "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/esp"
             },
             {
-              "id": 49895,
-              "name": "Pesticidas",
-              "value": 3.75,
+              "id": 49923,
+              "name": "Peças de Veículos",
+              "value": 13.2,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/pesticides/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/esp"
+            },
+            {
+              "id": 49924,
+              "name": "Medicamentos",
+              "value": 10.0,
+              "unit": "Bilhões",
+              "reference": "https://oec.world/en/profile/bilateral-product/packaged-medicaments/reporter/esp"
+            },
+            {
+              "id": 49925,
+              "name": "Gás de Petróleo",
+              "value": 8.58,
+              "unit": "Bilhões",
+              "reference": "https://oec.world/en/profile/bilateral-product/petroleum-gas/reporter/esp"
             }
           ]
         },
@@ -421,38 +418,39 @@
           "name_activity": "Produtos de Exportação",
           "details": [
             {
-              "id": 49896,
-              "name": "Soja",
-              "value": 26.1,
+              "id": 49926,
+              "name": "Carros",
+              "value": 34.5,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/esp"
             },
             {
-              "id": 49897,
-              "name": "Petróleo Bruto",
-              "value": 24.3,
+              "id": 49927,
+              "name": "Petróleo Refinado",
+              "value": 12.3,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/esp"
             },
             {
-              "id": 49898,
-              "name": "Minério de Ferro",
-              "value": 23.0,
-              "reference": "https://oec.world/en/profile/bilateral-product/iron-ore/reporter/bra"
+              "id": 49928,
+              "name": "Peças de Veículos",
+              "value": 10.6,
+              "unit": "Bilhões",
+              "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/esp"
             },
             {
-              "id": 49899,
-              "name": "Milho",
-              "value": 7.39,
+              "id": 49929,
+              "name": "Medicamentos",
+              "value": 9.95,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/corn/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/packaged-medicaments/reporter/esp"
             },
             {
-              "id": 49900,
-              "name": "Celulose Química de Sulfato",
-              "value": 7.35,
+              "id": 49930,
+              "name": "Caminhões de Entrega",
+              "value": 6.07,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/sulfate-chemical-woodpulp/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/delivery-trucks/reporter/esp"
             }
           ]
         }
@@ -465,15 +463,13 @@
     "name": "Portugual",
     "capital": "Lisboa",
     "continent": "Europa",
+    "ice_position": "48ª",
+    "life_expectancy": 81.5,
+    "health_expenditure_percap": 2689.94,
     "url_flag": "https://www.estudopratico.com.br/wp-content/uploads/2016/04/bandeira-portugal.jpg",
     "map_coordinate": {
       "latitude": 39.3039751,
-      "longitude": -8.51101044,
-      "zoom": 5,
-      "marker_position": {
-        "setTop": -80,
-        "setLeft": -60
-      }
+      "longitude": -8.51101044
     },
     "searches": {
       "population": [
@@ -494,37 +490,39 @@
           "name_activity": "Produtos de Importação",
           "details": [
             {
-              "id": 49891,
-              "name": "Petróleo Refinado",
-              "value": 12.4,
+              "id": 49931,
+              "name": "Carros",
+              "value": 5.11,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/prt"
             },
             {
-              "id": 49892,
-              "name": "Peças de Veículos",
-              "value": 6.19,
-              "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/bra"
-            },
-            {
-              "id": 49893,
+              "id": 49932,
               "name": "Petróleo Bruto",
-              "value": 4.35,
+              "value": 4.71,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/prt"
             },
             {
-              "id": 49894,
-              "name": "Circuitos Integrados",
-              "value": 3.83,
-              "reference": "https://oec.world/en/profile/bilateral-product/integrated-circuits/reporter/bra"
+              "id": 49933,
+              "name": "Aéronaves",
+              "value": 3.34,
+              "unit": "Bilhões",
+              "reference": "https://oec.world/en/profile/bilateral-product/planes-helicopters-andor-spacecraft/reporter/prt"
             },
             {
-              "id": 49895,
-              "name": "Pesticidas",
-              "value": 3.75,
+              "id": 49934,
+              "name": "Peças de Veículo",
+              "value": 3.03,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/pesticides/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/prt"
+            },
+            {
+              "id": 49935,
+              "name": "Medicamentos",
+              "value": 2.15,
+              "unit": "Bilhões",
+              "reference": "https://oec.world/en/profile/bilateral-product/packaged-medicaments/reporter/prt"
             }
           ]
         },
@@ -533,38 +531,39 @@
           "name_activity": "Produtos de Exportação",
           "details": [
             {
-              "id": 49896,
-              "name": "Soja",
-              "value": 26.1,
+              "id": 49936,
+              "name": "Carros",
+              "value": 4.73,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/prt"
             },
             {
-              "id": 49897,
-              "name": "Petróleo Bruto",
-              "value": 24.3,
+              "id": 49937,
+              "name": "Peças de Veículos",
+              "value": 3.29,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/prt"
             },
             {
-              "id": 49898,
-              "name": "Minério de Ferro",
-              "value": 23.0,
-              "reference": "https://oec.world/en/profile/bilateral-product/iron-ore/reporter/bra"
+              "id": 49938,
+              "name": "Petróleo Refinado",
+              "value": 2.23,
+              "unit": "Bilhões",
+              "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/prt"
             },
             {
-              "id": 49899,
-              "name": "Milho",
-              "value": 7.39,
+              "id": 49939,
+              "name": "Calçados de Couro",
+              "value": 1.84,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/corn/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/leather-footwear/reporter/prt"
             },
             {
-              "id": 49900,
-              "name": "Celulose Química de Sulfato",
-              "value": 7.35,
+              "id": 49940,
+              "name": "Papel",
+              "value": 1.26,
               "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/sulfate-chemical-woodpulp/reporter/bra"
+              "reference": "https://oec.world/en/profile/bilateral-product/uncoated-paper/reporter/prt"
             }
           ]
         }
