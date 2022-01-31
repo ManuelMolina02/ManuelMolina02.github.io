@@ -72,6 +72,13 @@
         {
           "id_activity": 11,
           "name_activity": "Produtos de Importação",
+          "colors": [
+            "#2b8fde",
+            "#48cea2",
+            "#deb871",
+            "#df8796",
+            "#9f93cb"
+          ],
           "details": [
             {
               "id": 49891,
@@ -111,6 +118,13 @@
         {
           "id_activity": 12,
           "name_activity": "Produtos de Exportação",
+          "colors": [
+            "#2b8fde",
+            "#48cea2",
+            "#deb871",
+            "#df8796",
+            "#9f93cb"
+          ],
           "details": [
             {
               "id": 49896,
@@ -236,6 +250,13 @@
         {
           "id_activity": 11,
           "name_activity": "Produtos de Importação",
+          "colors": [
+            "#2b8fde",
+            "#48cea2",
+            "#deb871",
+            "#df8796",
+            "#9f93cb"
+          ],
           "details": [
             {
               "id": 49901,
@@ -275,6 +296,13 @@
         {
           "id_activity": 12,
           "name_activity": "Produtos de Exportação",
+          "colors": [
+            "#2b8fde",
+            "#48cea2",
+            "#deb871",
+            "#df8796",
+            "#9f93cb"
+          ],
           "details": [
             {
               "id": 49906,
@@ -388,6 +416,13 @@
         {
           "id_activity": 11,
           "name_activity": "Produtos de Importação",
+          "colors": [
+            "#2b8fde",
+            "#48cea2",
+            "#deb871",
+            "#df8796",
+            "#9f93cb"
+          ],
           "details": [
             {
               "id": 49911,
@@ -429,6 +464,13 @@
         {
           "id_activity": 12,
           "name_activity": "Produtos de Exportação",
+          "colors": [
+            "#2b8fde",
+            "#48cea2",
+            "#deb871",
+            "#df8796",
+            "#9f93cb"
+          ],
           "details": [
             {
               "id": 49916,
@@ -543,6 +585,13 @@
         {
           "id_activity": 11,
           "name_activity": "Produtos de Importação",
+          "colors": [
+            "#2b8fde",
+            "#48cea2",
+            "#deb871",
+            "#df8796",
+            "#9f93cb"
+          ],
           "details": [
             {
               "id": 49921,
@@ -584,6 +633,13 @@
         {
           "id_activity": 12,
           "name_activity": "Produtos de Exportação",
+          "colors": [
+            "#2b8fde",
+            "#48cea2",
+            "#deb871",
+            "#df8796",
+            "#9f93cb"
+          ],
           "details": [
             {
               "id": 49926,
@@ -698,6 +754,13 @@
         {
           "id_activity": 11,
           "name_activity": "Produtos de Importação",
+          "colors": [
+            "#2b8fde",
+            "#48cea2",
+            "#deb871",
+            "#df8796",
+            "#9f93cb"
+          ],
           "details": [
             {
               "id": 49931,
@@ -739,6 +802,13 @@
         {
           "id_activity": 12,
           "name_activity": "Produtos de Exportação",
+          "colors": [
+            "#2b8fde",
+            "#48cea2",
+            "#deb871",
+            "#df8796",
+            "#9f93cb"
+          ],
           "details": [
             {
               "id": 49936,
