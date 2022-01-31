@@ -10,10 +10,6 @@
     "life_expectancy": 74.6,
     "health_expenditure_percap": 1318.17,
     "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
-    "map_coordinate": {
-      "latitude": -16.2612563,
-      "longitude": -51.466212
-    },
     "searches": {
       "population": [
         {
@@ -173,10 +169,6 @@
     "life_expectancy": 76.3,
     "health_expenditure_percap": 1137.24,
     "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1280px-Flag_of_Argentina.svg.png",
-    "map_coordinate": {
-      "latitude": -41.6239751,
-      "longitude": -63.9116104
-    },
     "searches": {
       "population": [
         {
@@ -324,10 +316,6 @@
     "life_expectancy": 81.7,
     "health_expenditure_percap": 1749.36,
     "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png",
-    "map_coordinate": {
-      "latitude": -34.4239751,
-      "longitude": -69.8110104
-    },
     "searches": {
       "population": [
         {
