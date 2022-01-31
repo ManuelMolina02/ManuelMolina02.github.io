@@ -1,14 +1,15 @@
 [
   {
     "id": 25594,
-    "initials": "BR",
+    "iso_a2": "BR",
+    "iso_a3": "BRA",
     "name": "Brasil",
     "capital": "Brasília",
     "continent": "América do Sul",
     "ice_position": "49º",
     "life_expectancy": 74.6,
     "health_expenditure_percap": 1318.17,
-    "url_flag": "https://www.significados.com.br/foto/bandeira-do-brasil.png",
+    "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
     "map_coordinate": {
       "latitude": -16.2612563,
       "longitude": -51.466212
@@ -16,7 +17,6 @@
     "searches": {
       "population": [
         {
-          "color": "#36a2ebcc",
           "gender": "Masculino",
           "etary_groups": [
             {
@@ -42,7 +42,6 @@
           ]
         },
         {
-          "color": "#ff6384cc",
           "gender": "Feminino",
           "etary_groups": [
             {
@@ -72,13 +71,6 @@
         {
           "id_activity": 11,
           "name_activity": "Produtos de Importação",
-          "colors": [
-            "#2b8fde",
-            "#48cea2",
-            "#deb871",
-            "#df8796",
-            "#9f93cb"
-          ],
           "details": [
             {
               "id": 49891,
@@ -118,13 +110,6 @@
         {
           "id_activity": 12,
           "name_activity": "Produtos de Exportação",
-          "colors": [
-            "#2b8fde",
-            "#48cea2",
-            "#deb871",
-            "#df8796",
-            "#9f93cb"
-          ],
           "details": [
             {
               "id": 49896,
@@ -179,14 +164,15 @@
   },
   {
     "id": 25595,
-    "initials": "AR",
+    "iso_a2": "AR",
+    "iso_a3": "ARG",
     "name": "Argentina",
     "capital": "Buenos Aires",
     "continent": "América do Sul",
     "ice_position": "59ª",
     "life_expectancy": 76.3,
     "health_expenditure_percap": 1137.24,
-    "url_flag": "https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/bandeira-da-argentina-oficial.jpg",
+    "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1280px-Flag_of_Argentina.svg.png",
     "map_coordinate": {
       "latitude": -41.6239751,
       "longitude": -63.9116104
@@ -194,7 +180,6 @@
     "searches": {
       "population": [
         {
-          "color": "#36a2ebcc",
           "gender": "Masculino",
           "etary_groups": [
             {
@@ -220,7 +205,6 @@
           ]
         },
         {
-          "color": "#ff6384cc",
           "gender": "Feminino",
           "etary_groups": [
             {
@@ -250,13 +234,6 @@
         {
           "id_activity": 11,
           "name_activity": "Produtos de Importação",
-          "colors": [
-            "#2b8fde",
-            "#48cea2",
-            "#deb871",
-            "#df8796",
-            "#9f93cb"
-          ],
           "details": [
             {
               "id": 49901,
@@ -296,13 +273,6 @@
         {
           "id_activity": 12,
           "name_activity": "Produtos de Exportação",
-          "colors": [
-            "#2b8fde",
-            "#48cea2",
-            "#deb871",
-            "#df8796",
-            "#9f93cb"
-          ],
           "details": [
             {
               "id": 49906,
@@ -345,14 +315,15 @@
   },
   {
     "id": 25596,
-    "initials": "CL",
+    "iso_a2": "CL",
+    "iso_a3": "CHL",
     "name": "Chile",
     "capital": "Santiago",
     "continent": "América do Sul",
     "ice_position": "77ª",
     "life_expectancy": 81.7,
     "health_expenditure_percap": 1749.36,
-    "url_flag": "https://a-static.mlcdn.com.br/1500x1500/bandeira-do-chile-bordada-90x128cm-banderminas/wgilbandeiras/301/d04de2b851145cedd59b857b96d46bbc.jpg",
+    "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png",
     "map_coordinate": {
       "latitude": -34.4239751,
       "longitude": -69.8110104
@@ -360,7 +331,6 @@
     "searches": {
       "population": [
         {
-          "color": "#36a2ebcc",
           "gender": "Masculino",
           "etary_groups": [
             {
@@ -386,7 +356,6 @@
           ]
         },
         {
-          "color": "#ff6384cc",
           "gender": "Feminino",
           "etary_groups": [
             {
@@ -416,13 +385,6 @@
         {
           "id_activity": 11,
           "name_activity": "Produtos de Importação",
-          "colors": [
-            "#2b8fde",
-            "#48cea2",
-            "#deb871",
-            "#df8796",
-            "#9f93cb"
-          ],
           "details": [
             {
               "id": 49911,
@@ -464,13 +426,6 @@
         {
           "id_activity": 12,
           "name_activity": "Produtos de Exportação",
-          "colors": [
-            "#2b8fde",
-            "#48cea2",
-            "#deb871",
-            "#df8796",
-            "#9f93cb"
-          ],
           "details": [
             {
               "id": 49916,
@@ -514,69 +469,64 @@
   },
   {
     "id": 25597,
-    "initials": "ES",
-    "name": "Espanha",
-    "capital": "Madri",
-    "continent": "Europa",
-    "ice_position": "36ª",
-    "life_expectancy": 83.3,
-    "health_expenditure_percap": 2965.82,
-    "url_flag": "https://a-static.mlcdn.com.br/1500x1500/bandeira-do-espanha-90x128cm-banderminas/wgilbandeiras/305/7f51be7ff61730bc26e74be9100bb824.jpg",
-    "map_coordinate": {
-      "latitude": 41.3239751,
-      "longitude": -4.016104
-    },
+    "iso_a2": "PY",
+    "iso_a3": "PRY",
+    "name": "Paraguai",
+    "capital": "",
+    "continent": "América do Sul",
+    "ice_position": "0ª",
+    "life_expectancy": 1,
+    "health_expenditure_percap": 1,
+    "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1280px-Flag_of_Paraguay.svg.png",
     "searches": {
       "population": [
         {
-          "color": "#36a2ebcc",
           "gender": "Masculino",
           "etary_groups": [
             {
               "age_range": "0-14",
-              "amount": 3428381
+              "amount": 1
             },
             {
               "age_range": "15-29",
-              "amount": 3524062
+              "amount": 1
             },
             {
               "age_range": "30-49",
-              "amount": 6844697
+              "amount": 1
             },
             {
               "age_range": "50-69",
-              "amount": 6212835
+              "amount": 1
             },
             {
               "age_range": "+70",
-              "amount": 2969126
+              "amount": 1
             }
           ]
         },
         {
-          "color": "#ff6384cc",
           "gender": "Feminino",
           "etary_groups": [
             {
               "age_range": "0-14",
-              "amount": 3217198
+              "amount": 1
             },
             {
               "age_range": "15-29",
-              "amount": 3352127
+              "amount": 1
             },
             {
               "age_range": "30-49",
-              "amount": 6714013
+              "amount": 1
             },
             {
               "age_range": "50-69",
-              "amount": 6413501
+              "amount": 1
             },
             {
               "age_range": "+70",
-              "amount": 4069271
+              "amount": 1
             }
           ]
         }
@@ -585,96 +535,26 @@
         {
           "id_activity": 11,
           "name_activity": "Produtos de Importação",
-          "colors": [
-            "#2b8fde",
-            "#48cea2",
-            "#deb871",
-            "#df8796",
-            "#9f93cb"
-          ],
           "details": [
             {
-              "id": 49921,
-              "name": "Petróleo Bruto",
-              "value": 27.8,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/esp"
-            },
-            {
-              "id": 49922,
-              "name": "Carros",
-              "value": 21.6,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/esp"
-            },
-            {
-              "id": 49923,
-              "name": "Peças de Veículos",
-              "value": 13.2,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/esp"
-            },
-            {
-              "id": 49924,
-              "name": "Medicamentos",
-              "value": 10.0,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/packaged-medicaments/reporter/esp"
-            },
-            {
-              "id": 49925,
-              "name": "Gás de Petróleo",
-              "value": 8.58,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/petroleum-gas/reporter/esp"
+              "id": 0,
+              "name": "",
+              "value": 1,
+              "unit": "",
+              "reference": ""
             }
           ]
         },
         {
           "id_activity": 12,
           "name_activity": "Produtos de Exportação",
-          "colors": [
-            "#2b8fde",
-            "#48cea2",
-            "#deb871",
-            "#df8796",
-            "#9f93cb"
-          ],
           "details": [
             {
-              "id": 49926,
-              "name": "Carros",
-              "value": 34.5,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/esp"
-            },
-            {
-              "id": 49927,
-              "name": "Petróleo Refinado",
-              "value": 12.3,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/esp"
-            },
-            {
-              "id": 49928,
-              "name": "Peças de Veículos",
-              "value": 10.6,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/esp"
-            },
-            {
-              "id": 49929,
-              "name": "Medicamentos",
-              "value": 9.95,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/packaged-medicaments/reporter/esp"
-            },
-            {
-              "id": 49930,
-              "name": "Caminhões de Entrega",
-              "value": 6.07,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/delivery-trucks/reporter/esp"
+              "id": 0,
+              "name": "",
+              "value": 1,
+              "unit": "",
+              "reference": ""
             }
           ]
         }
@@ -683,171 +563,98 @@
   },
   {
     "id": 25598,
-    "initials": "PT",
-    "name": "Portugual",
-    "capital": "Lisboa",
-    "continent": "Europa",
-    "ice_position": "48ª",
-    "life_expectancy": 81.5,
-    "health_expenditure_percap": 2689.94,
-    "url_flag": "https://www.estudopratico.com.br/wp-content/uploads/2016/04/bandeira-portugal.jpg",
-    "map_coordinate": {
-      "latitude": 39.3039751,
-      "longitude": -8.51101044
-    },
+    "iso_a2": "CO",
+    "iso_a3": "COL",
+    "name": "Colômbia",
+    "capital": "",
+    "continent": "América do Sul",
+    "ice_position": "0ª",
+    "life_expectancy": 1,
+    "health_expenditure_percap": 1,
+    "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1280px-Flag_of_Colombia.svg.png",
     "searches": {
-      "population": [
-        {
-          "color": "#36a2ebcc",
-          "gender": "Masculino",
-          "etary_groups": [
-            {
-              "age_range": "0-14",
-              "amount": 671717
-            },
-            {
-              "age_range": "15-29",
-              "amount": 802612
-            },
-            {
-              "age_range": "30-49",
-              "amount": 1326081
-            },
-            {
-              "age_range": "50-69",
-              "amount": 1306989
-            },
-            {
-              "age_range": "+70",
-              "amount": 704537
-            }
-          ]
-        },
-        {
-          "color": "#ff6384cc",
-          "gender": "Feminino",
-          "etary_groups": [
-            {
-              "age_range": "0-14",
-              "amount": 636806
-            },
-            {
-              "age_range": "15-29",
-              "amount": 794010
-            },
-            {
-              "age_range": "30-49",
-              "amount": 1412314
-            },
-            {
-              "age_range": "50-69",
-              "amount": 1487663
-            },
-            {
-              "age_range": "+70",
-              "amount": 1025194
-            }
-          ]
-        }
-      ],
-      "economy": [
-        {
-          "id_activity": 11,
-          "name_activity": "Produtos de Importação",
-          "colors": [
-            "#2b8fde",
-            "#48cea2",
-            "#deb871",
-            "#df8796",
-            "#9f93cb"
-          ],
-          "details": [
-            {
-              "id": 49931,
-              "name": "Carros",
-              "value": 5.11,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/prt"
-            },
-            {
-              "id": 49932,
-              "name": "Petróleo Bruto",
-              "value": 4.71,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/prt"
-            },
-            {
-              "id": 49933,
-              "name": "Aéronaves",
-              "value": 3.34,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/planes-helicopters-andor-spacecraft/reporter/prt"
-            },
-            {
-              "id": 49934,
-              "name": "Peças de Veículo",
-              "value": 3.03,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/prt"
-            },
-            {
-              "id": 49935,
-              "name": "Medicamentos",
-              "value": 2.15,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/packaged-medicaments/reporter/prt"
-            }
-          ]
-        },
-        {
-          "id_activity": 12,
-          "name_activity": "Produtos de Exportação",
-          "colors": [
-            "#2b8fde",
-            "#48cea2",
-            "#deb871",
-            "#df8796",
-            "#9f93cb"
-          ],
-          "details": [
-            {
-              "id": 49936,
-              "name": "Carros",
-              "value": 4.73,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/prt"
-            },
-            {
-              "id": 49937,
-              "name": "Peças de Veículos",
-              "value": 3.29,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/prt"
-            },
-            {
-              "id": 49938,
-              "name": "Petróleo Refinado",
-              "value": 2.23,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/prt"
-            },
-            {
-              "id": 49939,
-              "name": "Calçados de Couro",
-              "value": 1.84,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/leather-footwear/reporter/prt"
-            },
-            {
-              "id": 49940,
-              "name": "Papel",
-              "value": 1.26,
-              "unit": "Bilhões",
-              "reference": "https://oec.world/en/profile/bilateral-product/uncoated-paper/reporter/prt"
-            }
-          ]
-        }
-      ]
+      "population": [],
+      "economy": []
+    }
+  },
+  {
+    "id": 25599,
+    "iso_a2": "EC",
+    "iso_a3": "ECU",
+    "name": "Equador",
+    "capital": "",
+    "continent": "América do Sul",
+    "ice_position": "0ª",
+    "life_expectancy": 1,
+    "health_expenditure_percap": 1,
+    "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1280px-Flag_of_Ecuador.svg.png",
+    "searches": {
+      "population": [],
+      "economy": []
+    }
+  },
+  {
+    "id": 25600,
+    "iso_a2": "PE",
+    "iso_a3": "PER",
+    "name": "Peru",
+    "capital": "",
+    "continent": "América do Sul",
+    "ice_position": "0ª",
+    "life_expectancy": 1,
+    "health_expenditure_percap": 1,
+    "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/800px-Flag_of_Peru_%28state%29.svg.png",
+    "searches": {
+      "population": [],
+      "economy": []
+    }
+  },
+  {
+    "id": 25601,
+    "iso_a2": "BO",
+    "iso_a3": "BOL",
+    "name": "Bolívia",
+    "capital": "",
+    "continent": "América do Sul",
+    "ice_position": "0ª",
+    "life_expectancy": 1,
+    "health_expenditure_percap": 1,
+    "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/1280px-Flag_of_Bolivia_%28state%29.svg.png",
+    "searches": {
+      "population": [],
+      "economy": []
+    }
+  },
+  {
+    "id": 25602,
+    "iso_a2": "UY",
+    "iso_a3": "URY",
+    "name": "Uruguai",
+    "capital": "",
+    "continent": "América do Sul",
+    "ice_position": "0ª",
+    "life_expectancy": 1,
+    "health_expenditure_percap": 1,
+    "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
+    "searches": {
+      "population": [],
+      "economy": []
+    }
+  },
+  {
+    "id": 25603,
+    "iso_a2": "VE",
+    "iso_a3": "VEN",
+    "name": "Venezuela",
+    "capital": "",
+    "continent": "América do Sul",
+    "ice_position": "0ª",
+    "life_expectancy": 1,
+    "health_expenditure_percap": 1,
+    "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Venezuela_%28state%29.svg/1280px-Flag_of_Venezuela_%28state%29.svg.png",
+    "searches": {
+      "population": [],
+      "economy": []
     }
   }
 ]
