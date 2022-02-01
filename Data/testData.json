@@ -21,23 +21,23 @@
           "etary_groups": [
             {
               "age_range": "0-14",
-              "amount": 22364725
+              "amount": 22237120
             },
             {
               "age_range": "15-29",
-              "amount": 25286267
+              "amount": 25079042
             },
             {
               "age_range": "30-49",
-              "amount": 31887206
+              "amount": 32168431
             },
             {
               "age_range": "50-69",
-              "amount": 19914932
+              "amount": 20323347
             },
             {
               "age_range": "+70",
-              "amount": 5648386
+              "amount": 5923376
             }
           ]
         },
@@ -46,23 +46,23 @@
           "etary_groups": [
             {
               "age_range": "0-14",
-              "amount": 21398200
+              "amount": 21268288
             },
             {
               "age_range": "15-29",
-              "amount": 24660906
+              "amount": 24452233
             },
             {
               "age_range": "30-49",
-              "amount": 32614600
+              "amount": 32866039
             },
             {
               "age_range": "50-69",
-              "amount": 22289495
+              "amount": 22741151
             },
             {
               "age_range": "+70",
-              "amount": 7928724
+              "amount": 8294559
             }
           ]
         }
@@ -184,23 +184,23 @@
           "etary_groups": [
             {
               "age_range": "0-14",
-              "amount": 5637039
+              "amount": 5650346
             },
             {
               "age_range": "15-29",
-              "amount": 5347661
+              "amount": 5351883
             },
             {
               "age_range": "30-49",
-              "amount": 6101657
+              "amount": 6198001
             },
             {
               "age_range": "50-69",
-              "amount": 3774768
+              "amount": 3825354
             },
             {
               "age_range": "+70",
-              "amount": 1393461
+              "amount": 1431829
             }
           ]
         },
@@ -209,23 +209,23 @@
           "etary_groups": [
             {
               "age_range": "0-14",
-              "amount": 5432743
+              "amount": 5445370
             },
             {
               "age_range": "15-29",
-              "amount": 5205606
+              "amount": 5207061
             },
             {
               "age_range": "30-49",
-              "amount": 6245194
+              "amount": 6325294
             },
             {
               "age_range": "50-69",
-              "amount": 4278088
+              "amount": 4335811
             },
             {
               "age_range": "+70",
-              "amount": 2189606
+              "amount": 2239284
             }
           ]
         }
@@ -335,23 +335,23 @@
           "etary_groups": [
             {
               "age_range": "0-14",
-              "amount": 1859464
+              "amount": 1846145
             },
             {
               "age_range": "15-29",
-              "amount": 2109991
+              "amount": 2061074
             },
             {
               "age_range": "30-49",
-              "amount": 2805932
+              "amount": 2823103
             },
             {
               "age_range": "50-69",
-              "amount": 2032060
+              "amount": 2064254
             },
             {
               "age_range": "+70",
-              "amount": 667893
+              "amount": 701128
             }
           ]
         },
@@ -360,23 +360,23 @@
           "etary_groups": [
             {
               "age_range": "0-14",
-              "amount": 1793569
+              "amount": 1779940
             },
             {
               "age_range": "15-29",
-              "amount": 2045020
+              "amount": 1998049
             },
             {
               "age_range": "30-49",
-              "amount": 2772468
+              "amount": 2787283
             },
             {
               "age_range": "50-69",
-              "amount": 2193196
+              "amount": 2220848
             },
             {
               "age_range": "+70",
-              "amount": 932769
+              "amount": 968368
             }
           ]
         }
@@ -472,11 +472,11 @@
     "iso_a2": "PY",
     "iso_a3": "PRY",
     "name": "Paraguai",
-    "capital": "",
+    "capital": "Assunção",
     "continent": "América do Sul",
-    "ice_position": "0ª",
-    "life_expectancy": 1,
-    "health_expenditure_percap": 1,
+    "ice_position": "88ª",
+    "life_expectancy": 73.0,
+    "health_expenditure_percap": 872.93,
     "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1280px-Flag_of_Paraguay.svg.png",
     "searches": {
       "population": [
@@ -485,23 +485,23 @@
           "etary_groups": [
             {
               "age_range": "0-14",
-              "amount": 1
+              "amount": 1058518
             },
             {
               "age_range": "15-29",
-              "amount": 1
+              "amount": 1011568
             },
             {
               "age_range": "30-49",
-              "amount": 1
+              "amount": 991407
             },
             {
               "age_range": "50-69",
-              "amount": 1
+              "amount": 493199
             },
             {
               "age_range": "+70",
-              "amount": 1
+              "amount": 155402
             }
           ]
         },
@@ -510,23 +510,23 @@
           "etary_groups": [
             {
               "age_range": "0-14",
-              "amount": 1
+              "amount": 1012010
             },
             {
               "age_range": "15-29",
-              "amount": 1
+              "amount": 968989
             },
             {
               "age_range": "30-49",
-              "amount": 1
+              "amount": 950165
             },
             {
               "age_range": "50-69",
-              "amount": 1
+              "amount": 487463
             },
             {
               "age_range": "+70",
-              "amount": 1
+              "amount": 177121
             }
           ]
         }
@@ -566,14 +566,65 @@
     "iso_a2": "CO",
     "iso_a3": "COL",
     "name": "Colômbia",
-    "capital": "",
+    "capital": "Bogotá",
     "continent": "América do Sul",
-    "ice_position": "0ª",
-    "life_expectancy": 1,
-    "health_expenditure_percap": 1,
+    "ice_position": "56ª",
+    "life_expectancy": 74.1,
+    "health_expenditure_percap": 961.89,
     "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1280px-Flag_of_Colombia.svg.png",
     "searches": {
-      "population": [],
+      "population": [
+        {
+          "gender": "Masculino",
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 5688109
+            },
+            {
+              "age_range": "15-29",
+              "amount": 6495990
+            },
+            {
+              "age_range": "30-49",
+              "amount": 7179061
+            },
+            {
+              "age_range": "50-69",
+              "amount": 4517404
+            },
+            {
+              "age_range": "+70",
+              "amount": 1406109
+            }
+          ]
+        },
+        {
+          "gender": "Feminino",
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 5433476
+            },
+            {
+              "age_range": "15-29",
+              "amount": 6297173
+            },
+            {
+              "age_range": "30-49",
+              "amount": 7476348
+            },
+            {
+              "age_range": "50-69",
+              "amount": 5199821
+            },
+            {
+              "age_range": "+70",
+              "amount": 1819274
+            }
+          ]
+        }
+      ],
       "economy": []
     }
   },
@@ -582,14 +633,65 @@
     "iso_a2": "EC",
     "iso_a3": "ECU",
     "name": "Equador",
-    "capital": "",
+    "capital": "Quito",
     "continent": "América do Sul",
-    "ice_position": "0ª",
-    "life_expectancy": 1,
-    "health_expenditure_percap": 1,
+    "ice_position": "110ª",
+    "life_expectancy": 76.1,
+    "health_expenditure_percap": 1039.76,
     "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1280px-Flag_of_Ecuador.svg.png",
     "searches": {
-      "population": [],
+      "population": [
+        {
+          "gender": "Masculino",
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 2494653
+            },
+            {
+              "age_range": "15-29",
+              "amount": 2344047
+            },
+            {
+              "age_range": "30-49",
+              "amount": 2411790
+            },
+            {
+              "age_range": "50-69",
+              "amount": 1380541
+            },
+            {
+              "age_range": "+70",
+              "amount": 425238
+            }
+          ]
+        },
+        {
+          "gender": "Feminino",
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 2386193
+            },
+            {
+              "age_range": "15-29",
+              "amount": 2272308
+            },
+            {
+              "age_range": "30-49",
+              "amount": 2429375
+            },
+            {
+              "age_range": "50-69",
+              "amount": 1457958
+            },
+            {
+              "age_range": "+70",
+              "amount": 511262
+            }
+          ]
+        }
+      ],
       "economy": []
     }
   },
@@ -598,14 +700,65 @@
     "iso_a2": "PE",
     "iso_a3": "PER",
     "name": "Peru",
-    "capital": "",
+    "capital": "Lima",
     "continent": "América do Sul",
-    "ice_position": "0ª",
-    "life_expectancy": 1,
-    "health_expenditure_percap": 1,
+    "ice_position": "97ª",
+    "life_expectancy": 74.7,
+    "health_expenditure_percap": 656.18,
     "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/800px-Flag_of_Peru_%28state%29.svg.png",
     "searches": {
-      "population": [],
+      "population": [
+        {
+          "gender": "Masculino",
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 4162341
+            },
+            {
+              "age_range": "15-29",
+              "amount": 3691569
+            },
+            {
+              "age_range": "30-49",
+              "amount": 5018874
+            },
+            {
+              "age_range": "50-69",
+              "amount": 2929289
+            },
+            {
+              "age_range": "+70",
+              "amount": 927285
+            }
+          ]
+        },
+        {
+          "gender": "Feminino",
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 4084967
+            },
+            {
+              "age_range": "15-29",
+              "amount": 4025410
+            },
+            {
+              "age_range": "30-49",
+              "amount": 4800583
+            },
+            {
+              "age_range": "50-69",
+              "amount": 2959807
+            },
+            {
+              "age_range": "+70",
+              "amount": 1084092
+            }
+          ]
+        }
+      ],
       "economy": []
     }
   },
@@ -614,14 +767,65 @@
     "iso_a2": "BO",
     "iso_a3": "BOL",
     "name": "Bolívia",
-    "capital": "",
+    "capital": "Sucre",
     "continent": "América do Sul",
-    "ice_position": "0ª",
-    "life_expectancy": 1,
-    "health_expenditure_percap": 1,
+    "ice_position": "117ª",
+    "life_expectancy": 68.7,
+    "health_expenditure_percap": 427.41,
     "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/1280px-Flag_of_Bolivia_%28state%29.svg.png",
     "searches": {
-      "population": [],
+      "population": [
+        {
+          "gender": "Masculino",
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 1803515
+            },
+            {
+              "age_range": "15-29",
+              "amount": 1644696
+            },
+            {
+              "age_range": "30-49",
+              "amount": 1506227
+            },
+            {
+              "age_range": "50-69",
+              "amount": 771250
+            },
+            {
+              "age_range": "+70",
+              "amount": 289035
+            }
+          ]
+        },
+        {
+          "gender": "Feminino",
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 1726902
+            },
+            {
+              "age_range": "15-29",
+              "amount": 1592901
+            },
+            {
+              "age_range": "30-49",
+              "amount": 1504376
+            },
+            {
+              "age_range": "50-69",
+              "amount": 805295
+            },
+            {
+              "age_range": "+70",
+              "amount": 348450
+            }
+          ]
+        }
+      ],
       "economy": []
     }
   },
@@ -630,14 +834,65 @@
     "iso_a2": "UY",
     "iso_a3": "URY",
     "name": "Uruguai",
-    "capital": "",
+    "capital": "Montevidéo",
     "continent": "América do Sul",
-    "ice_position": "0ª",
-    "life_expectancy": 1,
-    "health_expenditure_percap": 1,
+    "ice_position": "66ª",
+    "life_expectancy": 77.1,
+    "health_expenditure_percap": 1792.18,
     "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
     "searches": {
-      "population": [],
+      "population": [
+        {
+          "gender": "Masculino",
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 359631
+            },
+            {
+              "age_range": "15-29",
+              "amount": 379677
+            },
+            {
+              "age_range": "30-49",
+              "amount": 463019
+            },
+            {
+              "age_range": "50-69",
+              "amount": 346119
+            },
+            {
+              "age_range": "+70",
+              "amount": 142035
+            }
+          ]
+        },
+        {
+          "gender": "Feminino",
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 344065
+            },
+            {
+              "age_range": "15-29",
+              "amount": 366434
+            },
+            {
+              "age_range": "30-49",
+              "amount": 465005
+            },
+            {
+              "age_range": "50-69",
+              "amount": 386905
+            },
+            {
+              "age_range": "+70",
+              "amount": 243125
+            }
+          ]
+        }
+      ],
       "economy": []
     }
   },
@@ -646,14 +901,65 @@
     "iso_a2": "VE",
     "iso_a3": "VEN",
     "name": "Venezuela",
-    "capital": "",
+    "capital": "Caracas",
     "continent": "América do Sul",
-    "ice_position": "0ª",
-    "life_expectancy": 1,
-    "health_expenditure_percap": 1,
+    "ice_position": "113ª",
+    "life_expectancy": 74.4,
+    "health_expenditure_percap": 922.99,
     "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Venezuela_%28state%29.svg/1280px-Flag_of_Venezuela_%28state%29.svg.png",
     "searches": {
-      "population": [],
+      "population": [
+        {
+          "gender": "Masculino",
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 3875864
+            },
+            {
+              "age_range": "15-29",
+              "amount": 3539296
+            },
+            {
+              "age_range": "30-49",
+              "amount": 3828741
+            },
+            {
+              "age_range": "50-69",
+              "amount": 2504890
+            },
+            {
+              "age_range": "+70",
+              "amount": 642866
+            }
+          ]
+        },
+        {
+          "gender": "Feminino",
+          "etary_groups": [
+            {
+              "age_range": "0-14",
+              "amount": 3727637
+            },
+            {
+              "age_range": "15-29",
+              "amount": 3484649
+            },
+            {
+              "age_range": "30-49",
+              "amount": 4041287
+            },
+            {
+              "age_range": "50-69",
+              "amount": 2757742
+            },
+            {
+              "age_range": "+70",
+              "amount": 864017
+            }
+          ]
+        }
+      ],
       "economy": []
     }
   }
