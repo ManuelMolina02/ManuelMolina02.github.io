@@ -171,7 +171,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/arg"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "50892",
+          "name": "China",
+          "value": 67.9,
+          "reference": "https://oec.world/en/profile/bilateral-country/chn/partner/bra"
+        },
+        {
+          "id": "50893",
+          "name": "Estados Unidos",
+          "value": 21.9,
+          "reference": "https://oec.world/en/profile/bilateral-country/usa/partner/bra"
+        },
+        {
+          "id": "50894",
+          "name": "Argentina",
+          "value": 8.57,
+          "reference": "https://oec.world/en/profile/bilateral-country/arg/partner/bra"
+        },
+        {
+          "id": "50895",
+          "name": "Holanda",
+          "value": 6.7,
+          "reference": "https://oec.world/en/profile/bilateral-country/nld/partner/bra"
+        },
+        {
+          "id": "50896",
+          "name": "Canadá",
+          "value": 4.39,
+          "reference": "https://oec.world/en/profile/bilateral-country/can/partner/bra"
+        }
+      ]
     },
     "exports": {
       "mainProducts": [
@@ -206,7 +237,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/soybean-oil/reporter/arg"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "53292",
+          "name": "China",
+          "value": 67.9,
+          "reference": "https://oec.world/en/profile/bilateral-country/chn/partner/bra"
+        },
+        {
+          "id": "51293",
+          "name": "Estados Unidos",
+          "value": 21.9,
+          "reference": "https://oec.world/en/profile/bilateral-country/usa/partner/bra"
+        },
+        {
+          "id": "50894",
+          "name": "Argentina",
+          "value": 8.57,
+          "reference": "https://oec.world/en/profile/bilateral-country/arg/partner/bra"
+        },
+        {
+          "id": "5125",
+          "name": "Holanda",
+          "value": 6.7,
+          "reference": "https://oec.world/en/profile/bilateral-country/nld/partner/bra"
+        },
+        {
+          "id": "5043196",
+          "name": "Canadá",
+          "value": 4.39,
+          "reference": "https://oec.world/en/profile/bilateral-country/can/partner/bra"
+        }
+      ]
     }
   },
   {
