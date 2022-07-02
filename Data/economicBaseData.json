@@ -5,31 +5,31 @@
     "imports": {
       "mainProducts": [
         {
-          "id": 49891,
+          "id": "49891",
           "name": "Petróleo Refinado",
           "value": 12.4,
           "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/bra"
         },
         {
-          "id": 49892,
+          "id": "49892",
           "name": "Peças de Veículos",
           "value": 6.19,
           "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/bra"
         },
         {
-          "id": 49893,
+          "id": "49893",
           "name": "Petróleo Bruto",
           "value": 4.35,
           "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
         },
         {
-          "id": 49894,
+          "id": "49894",
           "name": "Circuitos Integrados",
           "value": 3.83,
           "reference": "https://oec.world/en/profile/bilateral-product/integrated-circuits/reporter/bra"
         },
         {
-          "id": 49895,
+          "id": "49895",
           "name": "Pesticidas",
           "value": 3.75,
           "reference": "https://oec.world/en/profile/bilateral-product/pesticides/reporter/bra"
@@ -71,25 +71,25 @@
     "exports": {
       "mainProducts": [
         {
-          "id": 49896,
+          "id": "49896",
           "name": "Soja",
           "value": 26.1,
           "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/bra"
         },
         {
-          "id": 49897,
+          "id": "49897",
           "name": "Petróleo Bruto",
           "value": 24.3,
           "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
         },
         {
-          "id": 49898,
+          "id": "49898",
           "name": "Minério de Ferro",
           "value": 23.0,
           "reference": "https://oec.world/en/profile/bilateral-product/iron-ore/reporter/bra"
         },
         {
-          "id": 49899,
+          "id": "49899",
           "name": "Milho",
           "value": 7.39,
           "reference": "https://oec.world/en/profile/bilateral-product/corn/reporter/bra"
@@ -141,31 +141,31 @@
     "imports": {
       "mainProducts": [
         {
-          "id": 49901,
+          "id": "49901",
           "name": "Carros",
           "value": 2.33,
           "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/arg"
         },
         {
-          "id": 49902,
+          "id": "49902",
           "name": "Petróleo Refinado",
           "value": 2.25,
           "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/arg"
         },
         {
-          "id": 49903,
+          "id": "49903",
           "name": "Peças de Veículo",
           "value": 2.07,
           "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/arg"
         },
         {
-          "id": 49904,
+          "id": "49904",
           "name": "Gás de Petróleo",
           "value": 1.54,
           "reference": "https://oec.world/en/profile/bilateral-product/petroleum-gas/reporter/arg"
         },
         {
-          "id": 49905,
+          "id": "49905",
           "name": "Soja",
           "value": 1.38,
           "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/arg"
@@ -173,33 +173,33 @@
       ],
       "mainConsumers": [
         {
-          "id": "50892",
-          "name": "China",
-          "value": 67.9,
+          "id": "50111",
+          "name": "Brasil",
+          "value": 8.57,
           "reference": "https://oec.world/en/profile/bilateral-country/chn/partner/bra"
         },
         {
-          "id": "50893",
-          "name": "Estados Unidos",
-          "value": 21.9,
+          "id": "50112",
+          "name": "China",
+          "value": 8.34,
           "reference": "https://oec.world/en/profile/bilateral-country/usa/partner/bra"
         },
         {
-          "id": "50894",
-          "name": "Argentina",
-          "value": 8.57,
+          "id": "50113",
+          "name": "Estados Unidos",
+          "value": 5.02,
           "reference": "https://oec.world/en/profile/bilateral-country/arg/partner/bra"
         },
         {
-          "id": "50895",
-          "name": "Holanda",
-          "value": 6.7,
+          "id": "50114",
+          "name": "Alemanha",
+          "value": 2.13,
           "reference": "https://oec.world/en/profile/bilateral-country/nld/partner/bra"
         },
         {
-          "id": "50896",
-          "name": "Canadá",
-          "value": 4.39,
+          "id": "50115",
+          "name": "Paraguai",
+          "value": 2.13,
           "reference": "https://oec.world/en/profile/bilateral-country/can/partner/bra"
         }
       ]
@@ -207,31 +207,31 @@
     "exports": {
       "mainProducts": [
         {
-          "id": 49906,
+          "id": "49906",
           "name": "Farelo de Soja",
           "value": 8.81,
           "reference": "https://oec.world/en/profile/bilateral-product/soybean-meal/reporter/arg"
         },
         {
-          "id": 49907,
+          "id": "49907",
           "name": "Milho",
           "value": 6.19,
           "reference": "https://oec.world/en/profile/bilateral-product/corn/reporter/arg"
         },
         {
-          "id": 49908,
+          "id": "49908",
           "name": "Caminhões de Entrega",
           "value": 3.83,
           "reference": "https://oec.world/en/profile/bilateral-product/delivery-trucks/reporter/arg"
         },
         {
-          "id": 49909,
+          "id": "49909",
           "name": "Soja",
           "value": 3.47,
           "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/arg"
         },
         {
-          "id": 49910,
+          "id": "49910",
           "name": "Óleo de Soja",
           "value": 3.38,
           "reference": "https://oec.world/en/profile/bilateral-product/soybean-oil/reporter/arg"
@@ -239,33 +239,33 @@
       ],
       "mainConsumers": [
         {
-          "id": "53292",
-          "name": "China",
-          "value": 67.9,
+          "id": "50211",
+          "name": "Brasil",
+          "value": 7.67,
           "reference": "https://oec.world/en/profile/bilateral-country/chn/partner/bra"
         },
         {
-          "id": "51293",
-          "name": "Estados Unidos",
-          "value": 21.9,
+          "id": "50212",
+          "name": "China",
+          "value": 5.41,
           "reference": "https://oec.world/en/profile/bilateral-country/usa/partner/bra"
         },
         {
-          "id": "50894",
-          "name": "Argentina",
-          "value": 8.57,
+          "id": "50213",
+          "name": "Estados Unidos",
+          "value": 3.47,
           "reference": "https://oec.world/en/profile/bilateral-country/arg/partner/bra"
         },
         {
-          "id": "5125",
-          "name": "Holanda",
-          "value": 6.7,
+          "id": "50214",
+          "name": "Chile",
+          "value": 2.91,
           "reference": "https://oec.world/en/profile/bilateral-country/nld/partner/bra"
         },
         {
-          "id": "5043196",
-          "name": "Canadá",
-          "value": 4.39,
+          "id": "50215",
+          "name": "Vietnã",
+          "value": 2.87,
           "reference": "https://oec.world/en/profile/bilateral-country/can/partner/bra"
         }
       ]
@@ -307,7 +307,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/delivery-trucks/reporter/chl"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "65489",
+          "name": "China",
+          "value": 15.7,
+          "reference": "https://oec.world/en/profile/bilateral-country/chn/partner/chl"
+        },
+        {
+          "id": "65489",
+          "name": "Estados Unidos",
+          "value": 10.7,
+          "reference": "https://oec.world/en/profile/bilateral-country/usa/partner/chl"
+        },
+        {
+          "id": "65489",
+          "name": "Brasil",
+          "value": 3.95,
+          "reference": "https://oec.world/en/profile/bilateral-country/bra/partner/chl"
+        },
+        {
+          "id": "65489",
+          "name": "Argentina",
+          "value": 2.91,
+          "reference": "https://oec.world/en/profile/bilateral-country/arg/partner/chl"
+        },
+        {
+          "id": "65489",
+          "name": "Alemanha",
+          "value": 2.24,
+          "reference": "https://oec.world/en/profile/bilateral-country/deu/partner/chl"
+        }
+      ]
     },
     "exports": {
       "mainProducts": [
@@ -342,7 +373,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/pitted-fruits/reporter/chl"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "165498",
+          "name": "China",
+          "value": 28.6,
+          "reference": "https://oec.world/en/profile/bilateral-country/chn/partner/chl"
+        },
+        {
+          "id": "165498",
+          "name": "Estados Unidos",
+          "value": 9.94,
+          "reference": "https://oec.world/en/profile/bilateral-country/usa/partner/chl"
+        },
+        {
+          "id": "165498",
+          "name": "Japão",
+          "value": 6.41,
+          "reference": "https://oec.world/en/profile/bilateral-country/jpn/partner/chl"
+        },
+        {
+          "id": "165498",
+          "name": "Coreia do Sul",
+          "value": 4.11,
+          "reference": "https://oec.world/en/profile/bilateral-country/kor/partner/chl"
+        },
+        {
+          "id": "165498",
+          "name": "Brasil",
+          "value": 3.07,
+          "reference": "https://oec.world/en/profile/bilateral-country/bra/partner/chl"
+        }
+      ]
     }
   },
   {
@@ -381,7 +443,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/rubber-tires/reporter/pry"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "549845",
+          "name": "China",
+          "value": 2.81,
+          "reference": "https://oec.world/en/profile/bilateral-country/chn/partner/pry"
+        },
+        {
+          "id": "549845",
+          "name": "Brasil",
+          "value": 2.19,
+          "reference": "https://oec.world/en/profile/bilateral-country/bra/partner/pry"
+        },
+        {
+          "id": "549845",
+          "name": "Estados Unidos",
+          "value": 1.04,
+          "reference": "https://oec.world/en/profile/bilateral-country/usa/partner/pry"
+        },
+        {
+          "id": "549845",
+          "name": "Argentina",
+          "value": 0.875,
+          "reference": "https://oec.world/en/profile/bilateral-country/arg/partner/pry"
+        },
+        {
+          "id": "549845",
+          "name": "Chile",
+          "value": 0.367,
+          "reference": "https://oec.world/en/profile/bilateral-country/chl/partner/pry"
+        }
+      ]
     },
     "exports": {
       "mainProducts": [
@@ -416,7 +509,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/bovine-meat/reporter/pry"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "579337",
+          "name": "Brasil",
+          "value": 3.02,
+          "reference": "https://oec.world/en/profile/bilateral-country/bra/partner/pry"
+        },
+        {
+          "id": "571247",
+          "name": "Argentina",
+          "value": 2.13,
+          "reference": "https://oec.world/en/profile/bilateral-country/arg/partner/pry"
+        },
+        {
+          "id": "579447",
+          "name": "Chile",
+          "value": 0.773,
+          "reference": "https://oec.world/en/profile/bilateral-country/chl/partner/pry"
+        },
+        {
+          "id": "594187",
+          "name": "Rússia",
+          "value": 0.487,
+          "reference": "https://oec.world/en/profile/bilateral-country/rus/partner/pry"
+        },
+        {
+          "id": "579327",
+          "name": "Estados Unidos",
+          "value": 0.18,
+          "reference": "https://oec.world/en/profile/bilateral-country/usa/partner/pry"
+        }
+      ]
     }
   },
   {
@@ -455,7 +579,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/corn/reporter/col"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "612115",
+          "name": "China",
+          "value": 2.81,
+          "reference": "https://oec.world/en/profile/bilateral-country/chn/partner/pry"
+        },
+        {
+          "id": "632435",
+          "name": "Brasil",
+          "value": 2.19,
+          "reference": "https://oec.world/en/profile/bilateral-country/bra/partner/pry"
+        },
+        {
+          "id": "612635",
+          "name": "Estados Unidos",
+          "value": 1.04,
+          "reference": "https://oec.world/en/profile/bilateral-country/usa/partner/pry"
+        },
+        {
+          "id": "612435",
+          "name": "Argentina",
+          "value": 0.875,
+          "reference": "https://oec.world/en/profile/bilateral-country/arg/partner/pry"
+        },
+        {
+          "id": "612125",
+          "name": "Chile",
+          "value": 0.367,
+          "reference": "https://oec.world/en/profile/bilateral-country/chl/partner/pry"
+        }
+      ]
     },
     "exports": {
       "mainProducts": [
@@ -490,7 +645,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/gold/reporter/col"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "123545",
+          "name": "Brasil",
+          "value": 3.02,
+          "reference": "https://oec.world/en/profile/bilateral-country/bra/partner/pry"
+        },
+        {
+          "id": "123544",
+          "name": "Argentina",
+          "value": 2.13,
+          "reference": "https://oec.world/en/profile/bilateral-country/arg/partner/pry"
+        },
+        {
+          "id": "123543",
+          "name": "Chile",
+          "value": 0.773,
+          "reference": "https://oec.world/en/profile/bilateral-country/chl/partner/pry"
+        },
+        {
+          "id": "123542",
+          "name": "Rússia",
+          "value": 0.487,
+          "reference": "https://oec.world/en/profile/bilateral-country/rus/partner/pry"
+        },
+        {
+          "id": "123541",
+          "name": "Estados Unidos",
+          "value": 0.18,
+          "reference": "https://oec.world/en/profile/bilateral-country/usa/partner/pry"
+        }
+      ]
     }
   },
   {
@@ -529,7 +715,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/soybean-meal/reporter/ecu"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "698745",
+          "name": "Estados Unidos",
+          "value": 4.23,
+          "reference": "https://oec.world/en/profile/bilateral-country/usa/partner/ecu"
+        },
+        {
+          "id": "698744",
+          "name": "China",
+          "value": 3.8,
+          "reference": "https://oec.world/en/profile/bilateral-country/chn/partner/ecu"
+        },
+        {
+          "id": "698743",
+          "name": "Colômbia",
+          "value": 1.51,
+          "reference": "https://oec.world/en/profile/bilateral-country/col/partner/ecu"
+        },
+        {
+          "id": "698742",
+          "name": "Peru",
+          "value": 0.645,
+          "reference": "https://oec.world/en/profile/bilateral-country/per/partner/ecu"
+        },
+        {
+          "id": "698741",
+          "name": "Brasil",
+          "value": 0.614,
+          "reference": "https://oec.world/en/profile/bilateral-country/bra/partner/ecu"
+        }
+      ]
     },
     "exports": {
       "mainProducts": [
@@ -564,7 +781,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/ecu"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "498456",
+          "name": "Estados Unidos",
+          "value": 4.8,
+          "reference": "https://oec.world/en/profile/bilateral-country/usa/partner/ecu"
+        },
+        {
+          "id": "498454",
+          "name": "China ",
+          "value": 2.94,
+          "reference": "https://oec.world/en/profile/bilateral-country/chn/partner/ecu"
+        },
+        {
+          "id": "498453",
+          "name": "Panamá",
+          "value": 2.43,
+          "reference": "https://oec.world/en/profile/bilateral-country/pan/partner/ecu"
+        },
+        {
+          "id": "498452",
+          "name": "Rússia",
+          "value": 0.929,
+          "reference": "https://oec.world/en/profile/bilateral-country/rus/partner/ecu"
+        },
+        {
+          "id": "498451",
+          "name": " Chile",
+          "value": 0.823,
+          "reference": "https://oec.world/en/profile/bilateral-country/chl/partner/ecu"
+        }
+      ]
     }
   },
   {
@@ -603,7 +851,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/delivery-trucks/reporter/per"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        }
+      ]
     },
     "exports": {
       "mainProducts": [
@@ -638,7 +917,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/refined-copper/reporter/per"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        }
+      ]
     }
   },
   {
@@ -677,7 +987,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/buses/reporter/bol"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        }
+      ]
     },
     "exports": {
       "mainProducts": [
@@ -712,7 +1053,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/soybean-oil/reporter/bol"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        }
+      ]
     }
   },
   {
@@ -751,7 +1123,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/buses/reporter/bol"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        }
+      ]
     },
     "exports": {
       "mainProducts": [
@@ -786,7 +1189,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/soybean-oil/reporter/bol"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        }
+      ]
     }
   },
   {
@@ -825,7 +1259,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/soybean-meal/reporter/ven"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        }
+      ]
     },
     "exports": {
       "mainProducts": [
@@ -860,7 +1325,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/iron-reductions/reporter/ven"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        },
+        {
+          "id": "",
+          "name": "",
+          "value": 1,
+          "reference": ""
+        }
+      ]
     }
   }
 ]
