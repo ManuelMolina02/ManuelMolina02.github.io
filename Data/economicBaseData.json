@@ -35,7 +35,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/pesticides/reporter/bra"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "51001",
+          "name": "China",
+          "value": 36.4,
+          "reference": "https://oec.world/en/profile/bilateral-country/chn/partner/bra"
+        },
+        {
+          "id": "51002",
+          "name": "Estados Unidos",
+          "value": 29.3,
+          "reference": "https://oec.world/en/profile/bilateral-country/usa/partner/bra"
+        },
+        {
+          "id": "51003",
+          "name": "Alemanha",
+          "value": 9.71,
+          "reference": "https://oec.world/en/profile/bilateral-country/deu/partner/bra"
+        },
+        {
+          "id": "51004",
+          "name": "Argentina",
+          "value": 7.67,
+          "reference": "https://oec.world/en/profile/bilateral-country/arg/partner/bra"
+        },
+        {
+          "id": "51005",
+          "name": "Coreia do Sul",
+          "value": 4.59,
+          "reference": "https://oec.world/en/profile/bilateral-country/chn/partner/kor"
+        }
+      ]
     },
     "exports": {
       "mainProducts": [
@@ -70,7 +101,38 @@
           "reference": "https://oec.world/en/profile/bilateral-product/sulfate-chemical-woodpulp/reporter/bra"
         }
       ],
-      "mainConsumers": {}
+      "mainConsumers": [
+        {
+          "id": "50892",
+          "name": "China",
+          "value": 67.9,
+          "reference": "https://oec.world/en/profile/bilateral-country/chn/partner/bra"
+        },
+        {
+          "id": "50893",
+          "name": "Estados Unidos",
+          "value": 21.9,
+          "reference": "https://oec.world/en/profile/bilateral-country/usa/partner/bra"
+        },
+        {
+          "id": "50894",
+          "name": "Argentina",
+          "value": 8.57,
+          "reference": "https://oec.world/en/profile/bilateral-country/arg/partner/bra"
+        },
+        {
+          "id": "50895",
+          "name": "Holanda",
+          "value": 6.7,
+          "reference": "https://oec.world/en/profile/bilateral-country/nld/partner/bra"
+        },
+        {
+          "id": "50896",
+          "name": "Canadá",
+          "value": 4.39,
+          "reference": "https://oec.world/en/profile/bilateral-country/can/partner/bra"
+        }
+      ]
     }
   },
   {
