@@ -1,0 +1,742 @@
+[
+  {
+    "id": "1001",
+    "country": "Brasil",
+    "imports": {
+      "mainProducts": [
+        {
+          "id": 49891,
+          "name": "Petróleo Refinado",
+          "value": 12.4,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/bra"
+        },
+        {
+          "id": 49892,
+          "name": "Peças de Veículos",
+          "value": 6.19,
+          "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/bra"
+        },
+        {
+          "id": 49893,
+          "name": "Petróleo Bruto",
+          "value": 4.35,
+          "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
+        },
+        {
+          "id": 49894,
+          "name": "Circuitos Integrados",
+          "value": 3.83,
+          "reference": "https://oec.world/en/profile/bilateral-product/integrated-circuits/reporter/bra"
+        },
+        {
+          "id": 49895,
+          "name": "Pesticidas",
+          "value": 3.75,
+          "reference": "https://oec.world/en/profile/bilateral-product/pesticides/reporter/bra"
+        }
+      ],
+      "mainConsumers": {}
+    },
+    "exports": {
+      "mainProducts": [
+        {
+          "id": 49896,
+          "name": "Soja",
+          "value": 26.1,
+          "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/bra"
+        },
+        {
+          "id": 49897,
+          "name": "Petróleo Bruto",
+          "value": 24.3,
+          "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/bra"
+        },
+        {
+          "id": 49898,
+          "name": "Minério de Ferro",
+          "value": 23.0,
+          "reference": "https://oec.world/en/profile/bilateral-product/iron-ore/reporter/bra"
+        },
+        {
+          "id": 49899,
+          "name": "Milho",
+          "value": 7.39,
+          "reference": "https://oec.world/en/profile/bilateral-product/corn/reporter/bra"
+        },
+        {
+          "id": 49900,
+          "name": "Celulose Química de Sulfato",
+          "value": 7.35,
+          "reference": "https://oec.world/en/profile/bilateral-product/sulfate-chemical-woodpulp/reporter/bra"
+        }
+      ],
+      "mainConsumers": {}
+    }
+  },
+  {
+    "id": "1002",
+    "country": "Argentina",
+    "imports": {
+      "mainProducts": [
+        {
+          "id": 49901,
+          "name": "Carros",
+          "value": 2.33,
+          "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/arg"
+        },
+        {
+          "id": 49902,
+          "name": "Petróleo Refinado",
+          "value": 2.25,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/arg"
+        },
+        {
+          "id": 49903,
+          "name": "Peças de Veículo",
+          "value": 2.07,
+          "reference": "https://oec.world/en/profile/bilateral-product/vehicle-parts/reporter/arg"
+        },
+        {
+          "id": 49904,
+          "name": "Gás de Petróleo",
+          "value": 1.54,
+          "reference": "https://oec.world/en/profile/bilateral-product/petroleum-gas/reporter/arg"
+        },
+        {
+          "id": 49905,
+          "name": "Soja",
+          "value": 1.38,
+          "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/arg"
+        }
+      ],
+      "mainConsumers": {}
+    },
+    "exports": {
+      "mainProducts": [
+        {
+          "id": 49906,
+          "name": "Farelo de Soja",
+          "value": 8.81,
+          "reference": "https://oec.world/en/profile/bilateral-product/soybean-meal/reporter/arg"
+        },
+        {
+          "id": 49907,
+          "name": "Milho",
+          "value": 6.19,
+          "reference": "https://oec.world/en/profile/bilateral-product/corn/reporter/arg"
+        },
+        {
+          "id": 49908,
+          "name": "Caminhões de Entrega",
+          "value": 3.83,
+          "reference": "https://oec.world/en/profile/bilateral-product/delivery-trucks/reporter/arg"
+        },
+        {
+          "id": 49909,
+          "name": "Soja",
+          "value": 3.47,
+          "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/arg"
+        },
+        {
+          "id": 49910,
+          "name": "Óleo de Soja",
+          "value": 3.38,
+          "reference": "https://oec.world/en/profile/bilateral-product/soybean-oil/reporter/arg"
+        }
+      ],
+      "mainConsumers": {}
+    }
+  },
+  {
+    "id": "1003",
+    "country": "Chile",
+    "imports": {
+      "mainProducts": [
+        {
+          "id": 49911,
+          "name": "Petróleo Refinado",
+          "value": 4.22,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/chl"
+        },
+        {
+          "id": 49912,
+          "name": "Petróleo Bruto",
+          "value": 3.59,
+          "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/chl"
+        },
+        {
+          "id": 49913,
+          "name": "Carros",
+          "value": 3.46,
+          "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/chl"
+        },
+        {
+          "id": 49914,
+          "name": "Equipamentos de Transmissão",
+          "value": 2.11,
+          "reference": "https://oec.world/en/profile/bilateral-product/broadcasting-equipment/reporter/chl"
+        },
+        {
+          "id": 49915,
+          "name": "Caminhões de Entrega",
+          "value": 2.01,
+          "reference": "https://oec.world/en/profile/bilateral-product/delivery-trucks/reporter/chl"
+        }
+      ],
+      "mainConsumers": {}
+    },
+    "exports": {
+      "mainProducts": [
+        {
+          "id": 49916,
+          "name": "Minério de Cobre",
+          "value": 18.4,
+          "reference": "https://oec.world/en/profile/bilateral-product/copper-ore/reporter/chl"
+        },
+        {
+          "id": 49917,
+          "name": "Cobre Refinado",
+          "value": 13.4,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-copper/reporter/chl"
+        },
+        {
+          "id": 49918,
+          "name": "Celulose Química de Sulfato",
+          "value": 2.82,
+          "reference": "https://oec.world/en/profile/bilateral-product/sulfate-chemical-woodpulp/reporter/chl"
+        },
+        {
+          "id": 49919,
+          "name": "Filetes de Peixe",
+          "value": 2.79,
+          "reference": "https://oec.world/en/profile/bilateral-product/fish-fillets/reporter/chl"
+        },
+        {
+          "id": 49920,
+          "name": "Frutas",
+          "value": 1.96,
+          "reference": "https://oec.world/en/profile/bilateral-product/pitted-fruits/reporter/chl"
+        }
+      ],
+      "mainConsumers": {}
+    }
+  },
+  {
+    "id": "1004",
+    "country": "Paraguai",
+    "imports": {
+      "mainProducts": [
+        {
+          "id": 49921,
+          "name": "Equipamentos de Radiodifusão",
+          "value": 1.52,
+          "reference": "https://oec.world/en/profile/bilateral-product/broadcasting-equipment/reporter/pry"
+        },
+        {
+          "id": 49922,
+          "name": "Carros",
+          "value": 0.401,
+          "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/pry"
+        },
+        {
+          "id": 49923,
+          "name": "Pesticidas",
+          "value": 0.389,
+          "reference": "https://oec.world/en/profile/bilateral-product/pesticides/reporter/pry"
+        },
+        {
+          "id": 49924,
+          "name": "Petróleo Refinado",
+          "value": 0.374,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/pry"
+        },
+        {
+          "id": 49925,
+          "name": "Pneus de Borracha",
+          "value": 0.199,
+          "reference": "https://oec.world/en/profile/bilateral-product/rubber-tires/reporter/pry"
+        }
+      ],
+      "mainConsumers": {}
+    },
+    "exports": {
+      "mainProducts": [
+        {
+          "id": 49926,
+          "name": "Soja",
+          "value": 1.58,
+          "reference": "https://oec.world/en/profile/bilateral-product/soybeans/reporter/pry"
+        },
+        {
+          "id": 49927,
+          "name": "Eletricidade",
+          "value": 1.57,
+          "reference": "https://oec.world/en/profile/bilateral-product/electricity/reporter/pry"
+        },
+        {
+          "id": 49928,
+          "name": "Farelo de Soja",
+          "value": 0.692,
+          "reference": "https://oec.world/en/profile/bilateral-product/soybean-meal/reporter/pry"
+        },
+        {
+          "id": 49929,
+          "name": "Carne Bovina Congelada",
+          "value": 0.557,
+          "reference": "https://oec.world/en/profile/bilateral-product/frozen-bovine-meat/reporter/pry"
+        },
+        {
+          "id": 49930,
+          "name": "Carne Bovina",
+          "value": 0.468,
+          "reference": "https://oec.world/en/profile/bilateral-product/bovine-meat/reporter/pry"
+        }
+      ],
+      "mainConsumers": {}
+    }
+  },
+  {
+    "id": "1005",
+    "country": "Colômbia",
+    "imports": {
+      "mainProducts": [
+        {
+          "id": 49931,
+          "name": "Petróleo Refinado",
+          "value": 3.62,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/col"
+        },
+        {
+          "id": 49932,
+          "name": "Carros",
+          "value": 2.37,
+          "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/col"
+        },
+        {
+          "id": 49933,
+          "name": "Equipamentos de Radiodifusão",
+          "value": 2.13,
+          "reference": "https://oec.world/en/profile/bilateral-product/broadcasting-equipment/reporter/col"
+        },
+        {
+          "id": 49934,
+          "name": "Medicamentos",
+          "value": 1.35,
+          "reference": "https://oec.world/en/profile/bilateral-product/packaged-medicaments/reporter/col"
+        },
+        {
+          "id": 49935,
+          "name": "Milho",
+          "value": 1.09,
+          "reference": "https://oec.world/en/profile/bilateral-product/corn/reporter/col"
+        }
+      ],
+      "mainConsumers": {}
+    },
+    "exports": {
+      "mainProducts": [
+        {
+          "id": 49936,
+          "name": "Petróleo Bruto",
+          "value": 13.0,
+          "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/col"
+        },
+        {
+          "id": 49937,
+          "name": "Briquetes de Carvão",
+          "value": 5.62,
+          "reference": "https://oec.world/en/profile/bilateral-product/coal-briquettes/reporter/col"
+        },
+        {
+          "id": 49938,
+          "name": "Petróleo Refinado",
+          "value": 2.91,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/col"
+        },
+        {
+          "id": 49939,
+          "name": "Café",
+          "value": 2.38,
+          "reference": "https://oec.world/en/profile/bilateral-product/coffee/reporter/col"
+        },
+        {
+          "id": 49940,
+          "name": "Ouro",
+          "value": 1.48,
+          "reference": "https://oec.world/en/profile/bilateral-product/gold/reporter/col"
+        }
+      ],
+      "mainConsumers": {}
+    }
+  },
+  {
+    "id": "1006",
+    "country": "Equador",
+    "imports": {
+      "mainProducts": [
+        {
+          "id": 49941,
+          "name": "Petróleo Refinado",
+          "value": 2.97,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/ecu"
+        },
+        {
+          "id": 49942,
+          "name": "Óleo de Alcatrão de Carvão",
+          "value": 1.17,
+          "reference": "https://oec.world/en/profile/bilateral-product/coal-tar-oil/reporter/ecu"
+        },
+        {
+          "id": 49943,
+          "name": "Carros",
+          "value": 0.855,
+          "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/ecu"
+        },
+        {
+          "id": 49944,
+          "name": "Medicamentos",
+          "value": 0.528,
+          "reference": "https://oec.world/en/profile/bilateral-product/packaged-medicaments/reporter/ecu"
+        },
+        {
+          "id": 49945,
+          "name": "Farelo Soja",
+          "value": 0.401,
+          "reference": "https://oec.world/en/profile/bilateral-product/soybean-meal/reporter/ecu"
+        }
+      ],
+      "mainConsumers": {}
+    },
+    "exports": {
+      "mainProducts": [
+        {
+          "id": 49946,
+          "name": "Petróleo Bruto",
+          "value": 7.85,
+          "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/ecu"
+        },
+        {
+          "id": 49947,
+          "name": "Crustáceos",
+          "value": 3.89,
+          "reference": "https://oec.world/en/profile/bilateral-product/crustaceans/reporter/ecu"
+        },
+        {
+          "id": 49948,
+          "name": "Bananas",
+          "value": 3.43,
+          "reference": "https://oec.world/en/profile/bilateral-product/bananas/reporter/ecu"
+        },
+        {
+          "id": 49949,
+          "name": "Peixe Processado",
+          "value": 1.2,
+          "reference": "https://oec.world/en/profile/bilateral-product/processed-fish-41604/reporter/ecu"
+        },
+        {
+          "id": 49950,
+          "name": "Petróleo Refinado",
+          "value": 0.947,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/ecu"
+        }
+      ],
+      "mainConsumers": {}
+    }
+  },
+  {
+    "id": "1007",
+    "country": "Peru",
+    "imports": {
+      "mainProducts": [
+        {
+          "id": 49951,
+          "name": "Petróleo Refinado",
+          "value": 3.05,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/per"
+        },
+        {
+          "id": 49952,
+          "name": "Petróleo Bruto",
+          "value": 2.05,
+          "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/per"
+        },
+        {
+          "id": 49953,
+          "name": "Carros",
+          "value": 1.45,
+          "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/per"
+        },
+        {
+          "id": 49954,
+          "name": "Equipamentos de Transmissão",
+          "value": 1.23,
+          "reference": "https://oec.world/en/profile/bilateral-product/broadcasting-equipment/reporter/per"
+        },
+        {
+          "id": 49955,
+          "name": "Caminhões de Entrega",
+          "value": 1.01,
+          "reference": "https://oec.world/en/profile/bilateral-product/delivery-trucks/reporter/per"
+        }
+      ],
+      "mainConsumers": {}
+    },
+    "exports": {
+      "mainProducts": [
+        {
+          "id": 49956,
+          "name": "Minério de Cobre",
+          "value": 12.2,
+          "reference": "https://oec.world/en/profile/bilateral-product/copper-ore/reporter/per"
+        },
+        {
+          "id": 49957,
+          "name": "Ouro",
+          "value": 6.76,
+          "reference": "https://oec.world/en/profile/bilateral-product/gold/reporter/per"
+        },
+        {
+          "id": 49958,
+          "name": "Petróleo Refinado",
+          "value": 2.21,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/per"
+        },
+        {
+          "id": 49959,
+          "name": "Minério de Zinco",
+          "value": 1.65,
+          "reference": "https://oec.world/en/profile/bilateral-product/zinc-ore/reporter/per"
+        },
+        {
+          "id": 49960,
+          "name": "Cobre Refinado",
+          "value": 1.62,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-copper/reporter/per"
+        }
+      ],
+      "mainConsumers": {}
+    }
+  },
+  {
+    "id": "1008",
+    "country": "Bolívia",
+    "imports": {
+      "mainProducts": [
+        {
+          "id": 49961,
+          "name": "Carros",
+          "value": 0.385,
+          "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/bol"
+        },
+        {
+          "id": 49962,
+          "name": "Petróleo Refinado",
+          "value": 0.326,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/bol"
+        },
+        {
+          "id": 49963,
+          "name": "Caminhões de Entrega",
+          "value": 0.243,
+          "reference": "https://oec.world/en/profile/bilateral-product/delivery-trucks/reporter/bol"
+        },
+        {
+          "id": 49964,
+          "name": "Barras de Ferro Bruto",
+          "value": 0.222,
+          "reference": "https://oec.world/en/profile/bilateral-product/raw-iron-bars/reporter/bol"
+        },
+        {
+          "id": 49965,
+          "name": "Ônibus",
+          "value": 0.21,
+          "reference": "https://oec.world/en/profile/bilateral-product/buses/reporter/bol"
+        }
+      ],
+      "mainConsumers": {}
+    },
+    "exports": {
+      "mainProducts": [
+        {
+          "id": 49966,
+          "name": "Gás de Petróleo",
+          "value": 2.37,
+          "reference": "https://oec.world/en/profile/bilateral-product/petroleum-gas/reporter/bol"
+        },
+        {
+          "id": 49967,
+          "name": "Ouro",
+          "value": 1.85,
+          "reference": "https://oec.world/en/profile/bilateral-product/gold/reporter/bol"
+        },
+        {
+          "id": 49968,
+          "name": "Minério de Zinco",
+          "value": 0.843,
+          "reference": "https://oec.world/en/profile/bilateral-product/zinc-ore/reporter/bol"
+        },
+        {
+          "id": 49969,
+          "name": "Farelo de Soja",
+          "value": 0.533,
+          "reference": "https://oec.world/en/profile/bilateral-product/soybean-meal/reporter/bol"
+        },
+        {
+          "id": 49970,
+          "name": "Óleo de Soja",
+          "value": 0.289,
+          "reference": "https://oec.world/en/profile/bilateral-product/soybean-oil/reporter/bol"
+        }
+      ],
+      "mainConsumers": {}
+    }
+  },
+  {
+    "id": "1009",
+    "country": "Uruguai",
+    "imports": {
+      "mainProducts": [
+        {
+          "id": 49961,
+          "name": "Carros",
+          "value": 0.385,
+          "reference": "https://oec.world/en/profile/bilateral-product/cars/reporter/bol"
+        },
+        {
+          "id": 49962,
+          "name": "Petróleo Refinado",
+          "value": 0.326,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/bol"
+        },
+        {
+          "id": 49963,
+          "name": "Caminhões de Entrega",
+          "value": 0.243,
+          "reference": "https://oec.world/en/profile/bilateral-product/delivery-trucks/reporter/bol"
+        },
+        {
+          "id": 49964,
+          "name": "Barras de Ferro Bruto",
+          "value": 0.222,
+          "reference": "https://oec.world/en/profile/bilateral-product/raw-iron-bars/reporter/bol"
+        },
+        {
+          "id": 49965,
+          "name": "Ônibus",
+          "value": 0.21,
+          "reference": "https://oec.world/en/profile/bilateral-product/buses/reporter/bol"
+        }
+      ],
+      "mainConsumers": {}
+    },
+    "exports": {
+      "mainProducts": [
+        {
+          "id": 49966,
+          "name": "Gás de Petróleo",
+          "value": 2.37,
+          "reference": "https://oec.world/en/profile/bilateral-product/petroleum-gas/reporter/bol"
+        },
+        {
+          "id": 49967,
+          "name": "Ouro",
+          "value": 1.85,
+          "reference": "https://oec.world/en/profile/bilateral-product/gold/reporter/bol"
+        },
+        {
+          "id": 49968,
+          "name": "Minério de Zinco",
+          "value": 0.843,
+          "reference": "https://oec.world/en/profile/bilateral-product/zinc-ore/reporter/bol"
+        },
+        {
+          "id": 49969,
+          "name": "Farelo de Soja",
+          "value": 0.533,
+          "reference": "https://oec.world/en/profile/bilateral-product/soybean-meal/reporter/bol"
+        },
+        {
+          "id": 49970,
+          "name": "Óleo de Soja",
+          "value": 0.289,
+          "reference": "https://oec.world/en/profile/bilateral-product/soybean-oil/reporter/bol"
+        }
+      ],
+      "mainConsumers": {}
+    }
+  },
+  {
+    "id": "1010",
+    "country": "Venezuela",
+    "imports": {
+      "mainProducts": [
+        {
+          "id": 49981,
+          "name": "Petróleo Refinado",
+          "value": 0.938,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/ven"
+        },
+        {
+          "id": 49982,
+          "name": "Arroz",
+          "value": 0.242,
+          "reference": "https://oec.world/en/profile/bilateral-product/rice/reporter/ven"
+        },
+        {
+          "id": 49983,
+          "name": "Milho",
+          "value": 0.199,
+          "reference": "https://oec.world/en/profile/bilateral-product/corn/reporter/ven"
+        },
+        {
+          "id": 49984,
+          "name": "Pneus de Borracha",
+          "value": 0.168,
+          "reference": "https://oec.world/en/profile/bilateral-product/rubber-tires/reporter/ven"
+        },
+        {
+          "id": 49985,
+          "name": "Farelo de Soja",
+          "value": 0.161,
+          "reference": "https://oec.world/en/profile/bilateral-product/soybean-meal/reporter/ven"
+        }
+      ],
+      "mainConsumers": {}
+    },
+    "exports": {
+      "mainProducts": [
+        {
+          "id": 49986,
+          "name": "Petróleo Bruto",
+          "value": 12.2,
+          "reference": "https://oec.world/en/profile/bilateral-product/crude-petroleum/reporter/ven"
+        },
+        {
+          "id": 49987,
+          "name": "Petróleo Refinado",
+          "value": 0.761,
+          "reference": "https://oec.world/en/profile/bilateral-product/refined-petroleum/reporter/ven"
+        },
+        {
+          "id": 49988,
+          "name": "Álcoois Acílicos",
+          "value": 0.337,
+          "reference": "https://oec.world/en/profile/bilateral-product/acyclic-alcohols/reporter/ven"
+        },
+        {
+          "id": 49989,
+          "name": "Ouro",
+          "value": 0.235,
+          "reference": "https://oec.world/en/profile/bilateral-product/gold/reporter/ven"
+        },
+        {
+          "id": 49990,
+          "name": "Reduções de Ferro",
+          "value": 0.161,
+          "reference": "https://oec.world/en/profile/bilateral-product/iron-reductions/reporter/ven"
+        }
+      ],
+      "mainConsumers": {}
+    }
+  }
+]
